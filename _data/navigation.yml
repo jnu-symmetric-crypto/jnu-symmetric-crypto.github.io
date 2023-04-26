@@ -10,3 +10,79 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  main:
+  - title: "新闻"
+    url: /
+  - title: "成员"
+    url: /members/
+  - title: "论文"
+    url: /publications/
+  - title: "招生"
+    url: /positions/
+
+research:
+  - title: "荣誉"
+    children:
+      - title: "荣誉1"
+        url: ""
+      - title: "荣誉2"
+        url: ""
+
+docs:    
+  - title: 新闻
+    url: /
+
+  - title: 成员
+    url: /members/
+        
+  - title: 论文
+    url: /publications/
+
+  - title: 招生
+    url: /positions/
+    
+docsm:
+  - title: 新闻
+    url: /
+
+  - title: 成员
+    url: /members/
+    children:
+      - title: "教师"
+        url: /members/#faculty
+      - title: "博士"
+        url: /members/#phd-students
+      - title: "硕士"
+        url: /members/#master-students
+      - title: "参与团队研究的本科生"
+        url: /members/#undergraduates
+      - title: "访学"
+        url: /members/#visitors      
+      - title: "已毕业学生"
+        url: /members/#alumni 
+        
+  - title: 论文
+    url: /publications/
+
+  - title: 招生
+    url: /positions/
+
+docsp:
+  - title: 新闻
+    url: /
+
+  - title: 成员
+    url: /members/
+        
+  - title: 论文
+    url: /publications/
+    children:
+      - title: "教师论文"
+        url: /publications/#faculty
+      - title: "学生论文"
+        url: /publications/#student
+
+  - title: 招生
+    url: /positions/
+
