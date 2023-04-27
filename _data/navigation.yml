@@ -43,8 +43,8 @@ docsm:
         url: /members/#硕士
       - title: "参与讨论的本科生"
         url: /members/#本科
-      - title: "Visitors"
-        url: /members/#访学      
+#      - title: "访学者"
+#        url: /members/#访学      
       - title: "已毕业学生"
         url: /members/#已毕业
         
@@ -53,6 +53,8 @@ docsm:
 
   - title: 招生信息
     url: /positions/
+
+    
 
 docsp:
   - title: 新闻
