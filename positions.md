@@ -4,7 +4,7 @@ toc: false
 classes: wide
 sidebar:
   - title: " "
-    image: /assets/images/ntu-logo-blue-transparent-side.png
+    image: /assets/images/jnu_logo.png
     image_alt: "image"
     nav: "docs"
   - title: " "
@@ -13,10 +13,5 @@ sidebar:
 
 # Available Positions
 
-We are seeking candidates for **research fellow** (from fresh post-docs to senior research fellows) and **PhD student** positions in the areas of:
-- symmetric key cryptography
-- lightweight cryptography
-- side-channel attacks
-- machine learning 
+本小组每年招收一名博士与两名硕士生，欢迎同学们加入我们。我们希望招收计算机或数学相关专业，逻辑思维强，有编程基础的，并且对对称密码方向有兴趣的学生。
 
-Salaries for research fellows are competitive and are determined according to the successful applicants accomplishments, experience and qualifications. Interested applicants should send their detailed CVs, cover letter and references to Thomas Peyrin (thomas.peyrin [at] ntu.edu.sg). 
