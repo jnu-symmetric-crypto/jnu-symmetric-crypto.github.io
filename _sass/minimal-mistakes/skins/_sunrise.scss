@@ -7,21 +7,19 @@ $dark-gray: #0e2431 !default;
 $background-color: #e8d5b7 !default;
 $text-color: #000 !default;
 $muted-text-color: $dark-gray !default;
-$primary-color: #fc3a52 !default;
+$primary-color: #e8d5b7 !default;
+$header-color: #e8d5b7 !default;
 $border-color: mix(#000, $background-color, 20%) !default;
 $code-background-color: mix(#fff, $background-color, 20%) !default;
 $code-background-color-dark: mix(#000, $background-color, 10%) !default;
 $form-background-color: mix(#fff, $background-color, 15%) !default;
-$footer-background-color: #f9b248 !default;
+$footer-background-color: #e8d5b7 !default;
 $link-color: mix(#000, $primary-color, 10%) !default;
 $link-color-hover: mix(#fff, $link-color, 25%) !default;
 $link-color-visited: mix(#000, $link-color, 25%) !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
-
-/* notices */
-$notice-background-mix: 75% !default;
 
 /* sunrise syntax highlighting (base16) */
 $base00: #1d1f21 !default;
@@ -41,9 +39,7 @@ $base0d: #81a2be !default;
 $base0e: #b294bb !default;
 $base0f: #a3685a !default;
 
-.author__urls.social-icons i,
-.author__urls.social-icons .svg-inline--fa,
-.page__footer-follow .social-icons i,
-.page__footer-follow .social-icons .svg-inline--fa  {
+.author__urls.social-icons .fa,
+.page__footer-follow .social-icons .svg-inline--fa {
   color: inherit;
 }
