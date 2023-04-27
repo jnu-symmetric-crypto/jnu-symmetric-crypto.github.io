@@ -8,28 +8,28 @@ sidebar:
     image_alt: "image"
     nav: "docsm"
   - title: " "
-    nav: "research"
+    nav: "research"  
 ---
 
-# Faculty
+# 教师
 
 - **[宋凌](https://sites.google.com/view/ling-song/home)**
 
 
-# Postdocs
+# 博士
 
 - 
 
 
-# PhD Students
+# 硕士
 
 - 
 
 
-# Visitors
+# 本科
 
 - 
 
-# Alumni
+# 已毕业
 
 - 

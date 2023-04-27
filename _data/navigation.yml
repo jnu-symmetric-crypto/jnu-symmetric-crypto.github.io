@@ -1,97 +1,78 @@
 main:
-  - title: "News"
+  - title: "新闻"
     url: /
-  - title: "Members"
+  - title: "小组成员"
     url: /members/
-  - title: "Publications"
+  - title: "论文发表"
     url: /publications/
-  - title: "Available Positions"
+  - title: "招生信息"
     url: /positions/
 
 research:
-  - title: "Research highlights"
+  - title: "荣誉"
     children:
-      - title: "Deoxys (CAESAR winner)"
-        url: "https://sites.google.com/view/deoxyscipher"
-      - title: "Skinny"
-        url: "https://sites.google.com/site/skinnycipher/"
-      - title: "GIFT"
-        url: "https://giftcipher.github.io/gift/"
-      - title: "PHOTON (ISO/IEC)"      
-        url: "https://sites.google.com/site/photonhashfunction/"
-      - title: "LED"
-        url: "https://sites.google.com/site/ledblockcipher/"
-      - title: "-> SHA-1 is a Shambles !"
-        url: "https://sha-mbles.github.io/"
-      - title: "SHA-1 free-start col."
-        url: "https://sites.google.com/site/itstheshappening/"
+      - title: "荣誉1"
+        #url: "https://sites.google.com/view/deoxyscipher"
+
    
 docs:    
-  - title: News
+  - title: 新闻
     url: /
 
-  - title: Members
+  - title: 小组成员
     url: /members/
         
-  - title: Publications
+  - title: 论文发表
     url: /publications/
 
-  - title: Available Positions
+  - title: 招生信息
     url: /positions/
     
 docsm:
-  - title: News
+  - title: 新闻
     url: /
 
-  - title: Members
+  - title: 小组成员
     url: /members/
     children:
-      - title: "Faculty"
-        url: /members/#faculty
-      - title: "Postdocs"
-        url: /members/#postdocs
-      - title: "Researchers"
-        url: /members/#researchers
-      - title: "PhD Students"
-        url: /members/#phd-students
+      - title: "教师"
+        url: /members/#教师
+      - title: "博士生"
+        url: /members/#博士
+      - title: "硕士生"
+        url: /members/#硕士
+      - title: "参与讨论的本科生"
+        url: /members/#本科
       - title: "Visitors"
-        url: /members/#visitors      
-      - title: "Alumni"
-        url: /members/#alumni 
+        url: /members/#访学      
+      - title: "已毕业学生"
+        url: /members/#已毕业
         
-  - title: Publications
+  - title: 论文发表
     url: /publications/
 
-  - title: Available Positions
+  - title: 招生信息
     url: /positions/
 
 docsp:
-  - title: News
+  - title: 新闻
     url: /
 
-  - title: Members
+  - title: 小组成员
     url: /members/
         
-  - title: Publications
+  - title: 论文发表
     url: /publications/
     children:
-      - title: "2019"
-        url: /publications/#2019
-      - title: "2018"
-        url: /publications/#2018
-      - title: "2017"
-        url: /publications/#2017
-      - title: "2016"
-        url: /publications/#2016
-      - title: "2015"
-        url: /publications/#2015
-      - title: "2014"
-        url: /publications/#2014
-      - title: "2013"
-        url: /publications/#2013
-      - title: "2012"
-        url: /publications/#2012
+      - title: "教师论文"
+        url: /publications/#教师论文
+        children:
+          - title: "2018"
+            url: /publications/#2018
+      - title: "学生论文"
+        url: /publications/#学生论文
 
-  - title: Available Positions
+
+  - title: 招生信息
     url: /positions/
 
