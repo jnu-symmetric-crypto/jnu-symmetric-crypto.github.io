@@ -8,10 +8,10 @@ main:
   - title: "招生信息"
     url: /positions/
 
-research:
-  - title: "荣誉"
-    children:
-      - title: "荣誉1"
+#research:
+#  - title: "荣誉"
+#    children:
+#      - title: "荣誉1"
         #url: "https://sites.google.com/view/deoxyscipher"
 
    
