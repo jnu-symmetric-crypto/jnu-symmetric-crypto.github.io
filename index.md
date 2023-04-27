@@ -25,7 +25,8 @@ sidebar:
 
 # 新闻
 
-填充新闻
+- \[2023-04\]我们的论文”Improved Differential Cryptanalysis on SPECK Using Plaintext Structures.“已被ASCIP 2023会议收录。
+- \[2022-10\]我们的论文”MIBS-64算法Rectangle与Boomerang攻击的改进“已被《密码学报》收录。
 
 
 
@@ -35,4 +36,4 @@ sidebar:
 
 **宋凌**  
 网络空间安全学院 暨南大学
-**E-mail**: songlingcs(at)163.com
+**E-mail**: songlingcs@163.com
