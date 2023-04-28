@@ -10,9 +10,19 @@ sidebar:
   - title: " "
     nav: "research"
 
+
+gallery:
+  - url: "/assets/images/all-1.jpg"
+    image_path: "/assets/images/all-1.jpg"
+    title: "Roche moutonnée"
+  - url: "/assets/images/all-1.jpg"
+    image_path: "/assets/images/all-1.jpg"
+    title: "Little Ice Age"
+  - url: "/assets/images/all-1.jpg"
+    image_path: "/assets/images/all-1.jpg"
+    title: "Glacial valley"
+
 ---
 
-# 组内合照
-![合照1](./assets/images/all-1.jpg)
-![合照2](./assets/images/all-2.jpg)
-![合照3](./assets/images/all-3.jpg)
+
+{% include gallery class="posters" caption="合照" %}
