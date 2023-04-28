@@ -35,6 +35,6 @@ gallery_activity
 ---
 
 
-{% include gallery_all class="posters" caption="合照" %}
+{% include gallery id="gallery_all" class="posters" caption="合照" %}
 
-{% include gallery_activity class="posters" caption="组内活动" %}
+{% include gallery id="gallery_activity” class="posters" caption="组内活动" %}
