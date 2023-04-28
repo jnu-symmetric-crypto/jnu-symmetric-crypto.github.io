@@ -26,7 +26,7 @@ gallery_all:
     title: "组内合照3"
 
 gallery_activity:
-  - url: "/assets/images/all-1.jpg"
+  - url: "/assets/images/climbing.jpg"
     image_path: "/assets/images/climbing.jpg"
     title: "爬山合照"
   - url: "/assets/images/fse2022.jpg"
