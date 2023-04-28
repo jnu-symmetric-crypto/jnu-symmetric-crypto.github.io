@@ -27,9 +27,13 @@ gallery:
     image_path: "/assets/images/all-4.jpg"
     title: "Glacial valley"
 
-
+gallery2:
+  - url: "/assets/images/all-1.jpg"
+    image_path: "/assets/images/all-1.jpg"
+    title: "Roche moutonnée"
 ---
 
 
 {% include gallery  class="posters" caption="合照" %}
 
+{% include gallery id="gallery2” class="posters" caption="组内活动" %}
