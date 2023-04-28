@@ -11,6 +11,7 @@ sidebar:
     nav: "research"
 
 # gallery class: https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
+# {% include gallery  class="posters" caption="合照" %}
 # {% include gallery id="gallery_activity” class="posters" caption="组内活动" %}
 
 gallery:
@@ -34,6 +35,6 @@ gallery2:
 ---
 
 
-{% include gallery  class="posters" caption="合照" %}
+
 
 {% include gallery id="gallery2” class="posters" caption="组内活动" %}
