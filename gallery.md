@@ -14,25 +14,27 @@ sidebar:
 # {% include gallery  class="posters" caption="合照" %}
 # {% include gallery id="gallery_activity” class="posters" caption="组内活动" %}
 
-galleryd:
+gallery_all:
   - url: "/assets/images/all-1.jpg"
     image_path: "/assets/images/all-1.jpg"
-    title: "Roche moutonnée"
+    title: "组内合照1"
   - url: "/assets/images/all-2.jpg"
     image_path: "/assets/images/all-2.jpg"
-    title: "Little Ice Age"
-  - url: "/assets/images/all-3.jpg"
-    image_path: "/assets/images/all-3.jpg"
-    title: "Glacial valley"
+    title: "组内合照2"
   - url: "/assets/images/all-4.jpg"
     image_path: "/assets/images/all-4.jpg"
-    title: "Glacial valley"
+    title: "组内合照3"
 
-gallery2:
+gallery_activity:
   - url: "/assets/images/all-1.jpg"
-    image_path: "/assets/images/all-1.jpg"
-    title: "Roche moutonnée"
+    image_path: "/assets/images/climbing.jpg"
+    title: "爬山合照"
+  - url: "/assets/images/fse2022.jpg"
+    image_path: "/assets/images/fse2022.jpg"
+    title: "Fse会议合照"
 ---
 
 
-{% include gallery id="galleryd" class="posters" caption="合照" %}
+{% include gallery id="gallery_all" class="posters" caption="合照" %}
+
+{% include gallery id="gallery_activity" class="posters" caption="组内活动" %}
