@@ -14,7 +14,7 @@ sidebar:
 # {% include gallery  class="posters" caption="合照" %}
 # {% include gallery id="gallery_activity” class="posters" caption="组内活动" %}
 
-gallery:
+galleryd:
   - url: "/assets/images/all-1.jpg"
     image_path: "/assets/images/all-1.jpg"
     title: "Roche moutonnée"
@@ -35,6 +35,4 @@ gallery2:
 ---
 
 
-
-
-{% include gallery id="gallery2” class="posters" caption="组内活动" %}
+{% include gallery id=“galleryd” class="posters" caption="合照" %}
