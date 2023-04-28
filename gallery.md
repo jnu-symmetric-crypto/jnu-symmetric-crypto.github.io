@@ -35,4 +35,4 @@ gallery2:
 ---
 
 
-{% include gallery id=“galleryd” class="posters" caption="合照" %}
+{% include gallery id="galleryd" class="posters" caption="合照" %}
