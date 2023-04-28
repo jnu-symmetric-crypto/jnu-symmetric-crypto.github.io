@@ -10,6 +10,7 @@ sidebar:
   - title: " "
     nav: "research"
 
+# gallery class: https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
 
 gallery_all:
   - url: "/assets/images/all-1.jpg"
@@ -25,7 +26,7 @@ gallery_all:
     image_path: "/assets/images/all-4.jpg"
     title: "Glacial valley"
 
-gallery_activity
+gallery_activity:
   - url: "/assets/images/climbing.jpg"
     image_path: "/assets/images/climbing.jpg"
     title: "Roche moutonnée"
@@ -35,6 +36,6 @@ gallery_activity
 ---
 
 
-{% include gallery id="gallery_all" class="posters" caption="合照" %}
+{% include gallery id=“gallery_all”  class="posters" caption="合照" %}
 
 {% include gallery id="gallery_activity” class="posters" caption="组内活动" %}
