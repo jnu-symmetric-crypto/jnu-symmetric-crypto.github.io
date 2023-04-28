@@ -12,7 +12,7 @@ sidebar:
 
 # gallery class: https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/
 
-gallery_all:
+gallery:
   - url: "/assets/images/all-1.jpg"
     image_path: "/assets/images/all-1.jpg"
     title: "Roche moutonnée"
@@ -36,6 +36,6 @@ gallery_activity:
 ---
 
 
-{% include gallery id=“gallery_all”  class="posters" caption="合照" %}
+{% include gallery  class="posters" caption="合照" %}
 
 {% include gallery id="gallery_activity” class="posters" caption="组内活动" %}
