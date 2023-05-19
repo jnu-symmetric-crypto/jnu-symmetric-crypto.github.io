@@ -11,7 +11,7 @@ sidebar:
     nav: "research"
 ---
 
-<span style="color:red"><strong>本小组每年招收1名博士与两名硕士，欢迎对对称密码领域感兴趣的同学加入我们团队！</strong></span>  
+<span style="color:red"><strong>本小组每年招收1名博士生与两名硕士生，欢迎对对称密码领域感兴趣的同学加入我们团队！</strong></span>  
 
 欢迎来到 **暨南大学对称密码小组** 的主页
 
