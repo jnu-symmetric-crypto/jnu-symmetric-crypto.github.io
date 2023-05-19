@@ -25,6 +25,7 @@ sidebar:
 
 # 新闻
 
+- \[2023-05\]我们的论文”An image encryption scheme based on chaotic system and compressed sensing for multiple application scenarios.“已被INFORMATION SCIENCES期刊收录。
 - \[2023-04\]我们的论文”Improved Differential Cryptanalysis on SPECK Using Plaintext Structures.“已被ASCIP 2023会议收录。
 - \[2022-10\]我们的论文”MIBS-64算法Rectangle与Boomerang攻击的改进“已被《密码学报》收录。
 
