@@ -16,13 +16,13 @@ sidebar:
 - **[宋凌（Ling Song）](https://sites.google.com/view/ling-song/home)**（暨南大学网络空间安全学院教授）
 
 
-# 博士
+# 博士生
 
 - 王超（Chao Wang）
 - 符清杆（Qinggan Fu）
 
 
-# 硕士
+# 硕士生
 
 - 冯倬惠（Zhuohui Feng）
 - 梁轩宇（Xuanyu Liang）
@@ -32,9 +32,9 @@ sidebar:
 - 黄添榕（Tianrong Huang）
 
 
-# 本科
+# 本科生
 
-- 暂无
+- 何镜东（Jingdong He）[202210-202304]
 
 # 已毕业
 
