@@ -36,6 +36,12 @@ docs:
   - title: 画廊
     url: /gallery/
     
+  - title: 资料
+  url: /positions/
+
+  - title: 工具
+    url: /gallery/
+    
 docsm:
   - title: 新闻
     url: /
