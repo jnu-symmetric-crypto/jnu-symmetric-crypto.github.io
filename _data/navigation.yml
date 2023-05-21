@@ -9,6 +9,10 @@ main:
     url: /positions/
   - title: "画廊"
     url: /gallery/
+  - title: "资料"
+    url: /gallery/
+  - title: "工具"
+    url: /gallery/
 #research:
 #  - title: "荣誉"
 #    children:
