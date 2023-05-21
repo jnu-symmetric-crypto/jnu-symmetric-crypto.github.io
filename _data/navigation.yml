@@ -35,7 +35,12 @@ docs:
 
   - title: 画廊
     url: /gallery/
+   
+  - title: "资料"
+    url: /gallery/
     
+  - title: "工具"
+    url: /gallery/
     
 docsm:
   - title: 新闻
@@ -95,4 +100,10 @@ docsp:
     url: /positions/
     
   - title: 画廊
+    url: /gallery/
+  
+  - title: "资料"
+    url: /gallery/
+    
+  - title: "工具"
     url: /gallery/
