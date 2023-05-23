@@ -107,3 +107,35 @@ docsp:
     
   - title: "工具"
     url: /tools/
+    
+tools:
+  - title: "新闻"
+    url: /
+  - title: "小组成员"
+    url: /members/
+  - title: "论文发表"
+    url: /publications/
+  - title: "招生信息"
+    url: /positions/
+  - title: "画廊"
+    url: /gallery/
+  - title: "资料"
+    url: /resources/
+  - title: "工具"
+    url: /tools/
+    
+resources:
+  - title: "新闻"
+    url: /
+  - title: "小组成员"
+    url: /members/
+  - title: "论文发表"
+    url: /publications/
+  - title: "招生信息"
+    url: /positions/
+  - title: "画廊"
+    url: /gallery/
+  - title: "资料"
+    url: /resources/
+  - title: "工具"
+    url: /tools/
