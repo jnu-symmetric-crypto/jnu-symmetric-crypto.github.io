@@ -6,7 +6,7 @@ sidebar:
   - title: " "
     image: /assets/images/jnu_logo.png
     image_alt: "image"
-    nav: "docs"
+    nav: "tools"
   - title: " "
     nav: "research"
 ---
