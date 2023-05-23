@@ -10,9 +10,9 @@ main:
   - title: "画廊"
     url: /gallery/
   - title: "资料"
-    url: /gallery/
+    url: /resources/
   - title: "工具"
-    url: /gallery/
+    url: /tools/
 #research:
 #  - title: "荣誉"
 #    children:
@@ -37,10 +37,10 @@ docs:
     url: /gallery/
    
   - title: "资料"
-    url: /gallery/
+    url: /resouces/
     
   - title: "工具"
-    url: /gallery/
+    url: /tools/
     
 docsm:
   - title: 新闻
@@ -72,10 +72,10 @@ docsm:
     url: /gallery/
    
   - title: 资料
-    url: /positions/
+    url: /resources/
 
   - title: 工具
-    url: /gallery/
+    url: /tools/
 
 docsp:
   - title: 新闻
@@ -103,7 +103,7 @@ docsp:
     url: /gallery/
   
   - title: "资料"
-    url: /gallery/
+    url: /resources/
     
   - title: "工具"
-    url: /gallery/
+    url: /tools/
