@@ -13,7 +13,7 @@ sidebar:
 
 # 工具
 
-- https://github.com/msoos/cryptominisat
+- https://github.com/msoos/cryptominisat[link]: https://github.com/msoos/cryptominisat
 - https://github.com/arminbiere/cadical
 
 
