@@ -24,6 +24,9 @@ gallery_all:
   - url: "/assets/images/all-4.jpg"
     image_path: "/assets/images/all-4.jpg"
     title: "组内合照3"
+  - url: "/assets/images/2023graduation-1.jpg"
+    image_path: "/assets/images/2023graduation-1.jpg"
+    title: "2023graduation-1"
 
 gallery_activity:
   - url: "/assets/images/climbing.jpg"
