@@ -27,6 +27,15 @@ gallery_all:
   - url: "/assets/images/2023graduation-1.jpg"
     image_path: "/assets/images/2023graduation-1.jpg"
     title: "2023graduation-1"
+  - url: "/assets/images/2023graduation-2.jpg"
+    image_path: "/assets/images/2023graduation-2.jpg"
+    title: "2023graduation-2"
+  - url: "/assets/images/2023graduation-3.jpg"
+    image_path: "/assets/images/2023graduation-3.jpg"
+    title: "2023graduation-3"
+  - url: "/assets/images/2023graduation-4.jpg"
+    image_path: "/assets/images/2023graduation-4.jpg"
+    title: "2023graduation-4"
 
 gallery_activity:
   - url: "/assets/images/climbing.jpg"
