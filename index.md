@@ -25,7 +25,7 @@ sidebar:
 
 # 新闻
 
-- \[2023-05\]我的的论文"Improving the Rectangle Attack on GIFT-64"已被Selected Areas in Cryptography 2023录用。
+- \[2023-07\]我的的论文"Improving the Rectangle Attack on GIFT-64"已被Selected Areas in Cryptography 2023录用。
 - \[2023-05\]我们的论文“An image encryption scheme based on chaotic system and compressed sensing for multiple application scenarios.”已被INFORMATION SCIENCES期刊录用。
 - \[2023-04\]我们的论文“Improved Differential Cryptanalysis on SPECK Using Plaintext Structures.”<span style="color:red"><strong>(best paper)</strong></span>已被ASCIP 2023会议录用。
 - \[2022-11\]我们的论文“New Properties of the Double Boomerang Connectivity Table. ”已被IACR Trans. Symmetric Cryptol.2022录用。
