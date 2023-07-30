@@ -24,8 +24,6 @@ sidebar:
 
 # 硕士生
 
-- 冯倬惠（Zhuohui Feng）
-- 梁轩宇（Xuanyu Liang）
 - 陈胤岑（Yincen Chen）
 - 罗业（Ye Luo）
 - 黄健富（Jianfu Huang）
@@ -38,4 +36,5 @@ sidebar:
 
 # 已毕业
 
-- 暂无
+- 冯倬惠（Zhuohui Feng）[2023界]
+- 梁轩宇（Xuanyu Liang）[2023界]
