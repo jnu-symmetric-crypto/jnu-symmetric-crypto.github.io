@@ -54,7 +54,7 @@ sidebar:
 - Yincen Chen, Nana Zhang, Xuanyu Liang, Qianqian Yang, **Ling Song**: "Improving the Rectangle Attack on GIFT-64"已被Selected Areas in Cryptography 2023录用。
 - Chao Wang, **Ling Song**. An image encryption scheme based on chaotic system and compressed sensing for multiple application scenarios[J]. Information Sciences, 2023, 642: 119166.
 - Zhuohui Feng, Ye Luo, Chao Wang, Qiainqian Yang, Zhiquan Liu, **Ling Song**: Improved differential cryptanalysis on SPECK using plaintext structures. In Australasian Conference on Information Security and Privacy (pp. 3-24). (2023, June)
-- 
+
 ## 2022
 - 梁轩宇, 陈胤岑, 杨倩倩, 宋凌. MIBS-64 算法 Rectangle 与 Boomerang 攻击的改进. 密码学报. 2023, 10(3): 634-649.
 ---
