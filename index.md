@@ -25,6 +25,8 @@ sidebar:
 
 # 新闻
 
+- \[2023-12\]我们实验室联合厦门大学举办"[The 10th Asian Workshop on Symmetric Key Cryptography](https://askworkshop.github.io/ask2023/)"(第十届亚洲对称密钥密码学研讨会)。
+- \[2023-10\]我们的论文"Generic attacks on small-state stream cipher constructions in the multi-user setting"已被Cybersecurity期刊录用。
 - \[2023-07\]我的的论文"Improving the Rectangle Attack on GIFT-64"已被Selected Areas in Cryptography 2023录用。
 - \[2023-05\]我们的论文“An image encryption scheme based on chaotic system and compressed sensing for multiple application scenarios.”已被INFORMATION SCIENCES期刊录用。
 - \[2023-04\]我们的论文“Improved Differential Cryptanalysis on SPECK Using Plaintext Structures.”<span style="color:red"><strong>（best paper）</strong></span>已被ACISP 2023会议录用。
@@ -49,4 +51,4 @@ sidebar:
 
 # 最近更新日期
 
-2023年07月30日
+2024年01月11日
