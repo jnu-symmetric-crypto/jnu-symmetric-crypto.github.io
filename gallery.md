@@ -21,9 +21,6 @@ gallery_all:
   - url: "/assets/images/all-2.jpg"
     image_path: "/assets/images/all-2.jpg"
     title: "组内合照2"
-  - url: "/assets/images/all-4.jpg"
-    image_path: "/assets/images/all-4.jpg"
-    title: "组内合照3"
   - url: "/assets/images/2023graduation-1.jpg"
     image_path: "/assets/images/2023graduation-1.jpg"
     title: "2023graduation-1"
@@ -33,15 +30,30 @@ gallery_all:
   - url: "/assets/images/2023graduation-3.jpg"
     image_path: "/assets/images/2023graduation-3.jpg"
     title: "2023graduation-3"
+  - url: "/assets/images/2023graduation-4.jpg"
+    image_path: "/assets/images/2023graduation-4.jpg"
+    title: "2023graduation-4"
   
 
 gallery_activity:
   - url: "/assets/images/climbing.jpg"
     image_path: "/assets/images/climbing.jpg"
     title: "爬山合照"
+  - url: "/assets/images/climbing.jpg"
+    image_path: "/assets/images/zhujiang.jpg"
+    title: "珠江夜游"
   - url: "/assets/images/fse2022.jpg"
     image_path: "/assets/images/fse2022.jpg"
+    title: "Fse合照"
+
+gallery_conference
+  - url: "/assets/images/fse2022_all.jpg"
+    image_path: "/assets/images/fse2022_all.jpg"
     title: "Fse会议合照"
+  - url: "/assets/images/ask2023_all.jpg"
+    image_path: "/assets/images/ask2023_all.jpg"
+    title: "ASK会议合照"
+
 ---
 
 
