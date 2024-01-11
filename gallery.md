@@ -46,7 +46,7 @@ gallery_activity:
     image_path: "/assets/images/fse2022.jpg"
     title: "Fse合照"
 
-gallery_conference
+gallery_conference:
   - url: "/assets/images/fse2022_all.jpg"
     image_path: "/assets/images/fse2022_all.jpg"
     title: "Fse会议合照"
@@ -60,3 +60,5 @@ gallery_conference
 {% include gallery id="gallery_all" class="posters" caption="合照" %}
 
 {% include gallery id="gallery_activity" class="posters" caption="组内活动" %}
+
+{% include gallery id="gallery_conference" class="posters" caption="参与会议活动" %}
