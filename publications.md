@@ -15,7 +15,7 @@ sidebar:
 
 ## 2023
 - Danping Shi, Siwei Sun, **Ling Song**, Lei Hu, Qianqian Yang: Exploiting Non-full Key Additions: Full-Fledged Automatic Demirci-Selçuk Meet-in-the-Middle Cryptanalysis of SKINNY. *EUROCRYPT* (4) 2023: 67-97（三大顶会之一）
-
+- 宋凌,黄健富,王超: 密码算法安全性分析方法、系统、设备及存储介质（专利申请号：CN202311341424.X）
 
 ## 2022
 
