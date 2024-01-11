@@ -18,8 +18,9 @@ sidebar:
 
 # 博士生
 
-- 王  超（Chao Wang）
 - 符清杆（Qinggan Fu）
+- 刘慧敏（Huimin Liu）
+- 李盈盈（Yingying Li）
 
 
 # 硕士生
@@ -36,5 +37,6 @@ sidebar:
 
 # 已毕业
 
-- 冯倬惠（Zhuohui Feng） [2023界]
-- 梁轩宇（Xuanyu Liang） [2023界]
+- 冯倬惠（Zhuohui Feng） [2023届]
+- 梁轩宇（Xuanyu Liang） [2023届]
+- 王  超（Chao Wang） [2024届]
