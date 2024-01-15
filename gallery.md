@@ -49,15 +49,12 @@ gallery_activity:
 gallery_conference:
   - url: "/assets/images/fse2022_all.jpg"
     image_path: "/assets/images/fse2022_all.jpg"
-    excerpt: "FSE会议合照"
     title: "Fse会议合照"
   - url: "/assets/images/ask2023_all.jpg"
     image_path: "/assets/images/ask2023_all.jpg"
-    excerpt: "ASK会议合照"
     title: "ASK会议合照"
   - url: "/assets/images/asianc2023_part.jpg"
     image_path: "/assets/images/asianc2023_part.jpg"
-    excerpt: "AsianCrypt会议合照"
     title: "ASIANCrypt会议合照"
 
 ---
@@ -67,4 +64,4 @@ gallery_conference:
 
 {% include gallery id="gallery_activity" class="posters" caption="组内活动" %}
 
-{% include gallery id="gallery_conference" class="posters" caption="参与会议活动" %}
+{% include gallery id="gallery_conference" class="posters" caption="会议活动（FSE2023、ASK2023、AsianCrypt2023）" %}
