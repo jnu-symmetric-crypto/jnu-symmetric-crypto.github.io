@@ -53,6 +53,9 @@ gallery_conference:
   - url: "/assets/images/ask2023_all.jpg"
     image_path: "/assets/images/ask2023_all.jpg"
     title: "ASK会议合照"
+  - url: "/assets/images/asianc2023_part.jpg"
+    image_path: "/assets/images/asianc2023_part.jpg"
+    title: "ASIANCrypt会议合照"
 
 ---
 
