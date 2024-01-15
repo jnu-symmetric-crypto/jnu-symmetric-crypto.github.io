@@ -39,4 +39,4 @@ sidebar:
 
 - 冯倬惠（Zhuohui Feng） [2023届]
 - 梁轩宇（Xuanyu Liang） [2023届]
-- 王  超（Chao Wang） [2024届]
+- 王  超（Chao Wang） [2023届]
