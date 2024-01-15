@@ -25,7 +25,7 @@ sidebar:
 
 # 新闻
 
-- \[2023-12\]我们的专利"密码算法安全性分析方法、系统、设备及存储介质"（专利申请号：CN202311341424.X）已进入实质审查阶段。
+- \[2024-01\]我们的专利"密码算法安全性分析方法、系统、设备及存储介质"（专利号：ZL 2023 1 1341424.XX）已授权。
 - \[2023-12\]我们实验室联合厦门大学举办"[The 10th Asian Workshop on Symmetric Key Cryptography](https://askworkshop.github.io/ask2023/)"(第十届亚洲对称密钥密码学研讨会)。
 - \[2023-10\]我们的论文"Generic attacks on small-state stream cipher constructions in the multi-user setting"已被Cybersecurity期刊录用。
 - \[2023-07\]我的的论文"Improving the Rectangle Attack on GIFT-64"已被Selected Areas in Cryptography 2023录用。
