@@ -13,9 +13,11 @@ sidebar:
 
 # 教师论文
 
+## 2024
+- **宋凌**,黄健富,王超: 密码算法安全性分析方法、系统、设备及存储介质（专利申请号：ZL202311341424.X）
+
 ## 2023
 - Danping Shi, Siwei Sun, **Ling Song**, Lei Hu, Qianqian Yang: Exploiting Non-full Key Additions: Full-Fledged Automatic Demirci-Selçuk Meet-in-the-Middle Cryptanalysis of SKINNY. *EUROCRYPT* (4) 2023: 67-97（三大顶会之一）
-- 宋凌,黄健富,王超: 密码算法安全性分析方法、系统、设备及存储介质（专利申请号：CN202311341424.X）
 
 ## 2022
 
@@ -23,13 +25,10 @@ sidebar:
 - **Ling Song**, Nana Zhang, Qianqian Yang, Danping Shi, Jiahao Zhao, Lei Hu, Jian Weng: Optimizing Rectangle Attacks: A Unified and Generic Framework for Key Recovery. *ASIACRYPT* (1) 2022: 410-440（三大顶会之一）
 - Jian Guo, Guozhen Liu, **Ling Song**, Yi Tu: Exploring SAT for Cryptanalysis: (Quantum) Collision Attacks Against 6-Round SHA-3. *ASIACRYPT* (3) 2022: 645-674（三大顶会之一）
 
-## 2021
+## 2021之前
 
 - **Ling Song**, Yi Tu, Danping Shi, Lei Hu: Security analysis of Subterranean 2.0. *Des. Codes Cryptogr*. 89(8): 1875-1905 (2021)
 - Hosein Hadipour, Nasour Bagheri, **Ling Song**: Improved Rectangle Attacks on SKINNY and CRAFT. *IACR Trans. Symmetric Cryptol*. 2021(2): 140-198 (2021)
-
-## 2020之前
-
 - Jian Guo, Guohong Liao, Guozhen Liu, Meicheng Liu, Kexin Qiao, **Ling Song**: Practical Collision Attacks against Round-Reduced SHA-3. *J. Cryptol.* 33(1): 228-270 (2020)
 - Chun Guo, Jian Guo, Eik List, **Ling Song**: Towards Closing the Security Gap of Tweak-aNd-Tweak (TNT). *ASIACRYPT* (1) 2020: 567-597（三大顶会之一）
 - Zhenzhen Bao, Chun Guo, Jian Guo, **Ling Song**: TNT: How to Tweak a Block Cipher. *EUROCRYPT* (2) 2020: 641-673（三大顶会之一）
