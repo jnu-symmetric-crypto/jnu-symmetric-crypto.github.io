@@ -53,9 +53,11 @@ gallery_conference:
     title: "Fse会议合照"
   - url: "/assets/images/ask2023_all.jpg"
     image_path: "/assets/images/ask2023_all.jpg"
+    excerpt: "ASK会议合照"
     title: "ASK会议合照"
   - url: "/assets/images/asianc2023_part.jpg"
     image_path: "/assets/images/asianc2023_part.jpg"
+    excerpt: "AsianCrypt会议合照"
     title: "ASIANCrypt会议合照"
 
 ---
