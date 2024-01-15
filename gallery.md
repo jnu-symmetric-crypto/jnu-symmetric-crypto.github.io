@@ -49,7 +49,7 @@ gallery_activity:
 gallery_conference:
   - url: "/assets/images/fse2022_all.jpg"
     image_path: "/assets/images/fse2022_all.jpg"
-    alt: "FSE"
+    excerpt: "FSE会议合照"
     title: "Fse会议合照"
   - url: "/assets/images/ask2023_all.jpg"
     image_path: "/assets/images/ask2023_all.jpg"
