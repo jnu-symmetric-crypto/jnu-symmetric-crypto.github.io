@@ -13,7 +13,7 @@ sidebar:
 
 # 教师
 
-- **[宋凌（Ling Song）](https://sites.google.com/view/ling-song/home)**（暨南大学网络空间安全学院教授）
+- **宋凌（Ling Song)**（暨南大学网络空间安全学院教授）【[学院教师主页](https://cybsec.jnu.edu.cn/2023/1120/c39591a781833/page.htm)】【[个人主页](https://sites.google.com/view/ling-song/home)】
 
 
 # 博士生
