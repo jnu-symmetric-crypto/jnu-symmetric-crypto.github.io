@@ -25,7 +25,7 @@ sidebar:
 
 # 新闻
 
-- \[2024-01\]我们的论文"Probabilistic Extensions: A One-Step Framework for Finding Rectangle Attacks and Beyond."已被EUROCRYPT 2024<span style="color:red"><strong>（三大顶会之一）</strong></span>录用。
+- \[2024-03\]我们的论文"Probabilistic Extensions: A One-Step Framework for Finding Rectangle Attacks and Beyond."已被EUROCRYPT 2024<span style="color:red"><strong>（三大顶会之一）</strong></span>录用。
 - \[2024-01\]我们的论文"Optimizing Rectangle and Boomerang Attacks: A Unified and Generic Framework for Key Recovery"已被Journal of Cryptology<span style="color:red"><strong>（密码学唯一旗舰期刊）</strong></span>录用。
 - \[2024-01\]我们的专利"密码算法安全性分析方法、系统、设备及存储介质"（专利号：ZL202311341424.XX）已授权。
 - \[2023-12\]我们实验室联合厦门大学举办"[The 10th Asian Workshop on Symmetric Key Cryptography](https://askworkshop.github.io/ask2023/)"(第十届亚洲对称密钥密码学研讨会)。
@@ -53,6 +53,6 @@ sidebar:
 --- 
 
 # 最近更新日期
-> 2024年1月15日
+> 2024年3月15日
 
 ---
