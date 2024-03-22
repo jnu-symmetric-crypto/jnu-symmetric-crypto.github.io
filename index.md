@@ -25,6 +25,7 @@ sidebar:
 
 # 新闻
 
+- \[2024-03\]我们的论文"Revisiting the Shuffle of Generalized Feistel Structure"已被Cybersecurity期刊录用。
 - \[2024-03\]我们的论文"Probabilistic Extensions: A One-Step Framework for Finding Rectangle Attacks and Beyond."已被EUROCRYPT 2024<span style="color:red"><strong>（三大顶会之一）</strong></span>录用。
 - \[2024-01\]我们的论文"Optimizing Rectangle and Boomerang Attacks: A Unified and Generic Framework for Key Recovery"已被Journal of Cryptology<span style="color:red"><strong>（密码学唯一旗舰期刊）</strong></span>录用。
 - \[2024-01\]我们的专利"密码算法安全性分析方法、系统、设备及存储介质"（专利号：ZL202311341424.XX）已授权。
