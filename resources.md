@@ -13,6 +13,8 @@ sidebar:
 
 # 资料
 
-- block cipher companion
-- symmetric book
+- The Block Cipher Companion【[下载链接](https://link.springer.com/book/10.1007/978-3-642-17342-4)】
+- A Tutorial on Linear and Differential Cryptanalysis【[下载链接](http://www.cs.bc.edu/~straubin/crypto2017/heys.pdf)】
+- Symmetric Cryptography 1: Design and Security Proofs【[下载链接](https://www.wiley.com/en-ca/Symmetric+Cryptography%2C+Volume+1%3A+Design+and+Security+Proofs-p-9781394256341)，内部电子版，仅供学习，可联系songlingcs@163.com】
+- Symmetric Cryptography 2: Cryptanalysis and Future Directions【[下载链接](https://www.wiley.com/en-ca/Symmetric+Cryptography,+Volume+2%3A+Cryptanalysis+and+Future+Directions-p-9781789451474)】
 
