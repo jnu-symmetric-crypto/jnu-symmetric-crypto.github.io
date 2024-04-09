@@ -25,13 +25,17 @@ sidebar:
 
 # 新闻
 
+- \[2024-04\]我们的论文“Improving Differential-Neural Cryptanalysis for Large-State SPECK”被ICICS 2024会议接收。
+- \[2024-03\]我们的论文“CCA security for contracting (quasi-) Feistel constructions with tight round complexity”被DDC期刊接收。
 - \[2024-03\]我们的论文"Revisiting the Shuffle of Generalized Feistel Structure"已被Cybersecurity期刊录用。
 - \[2024-03\]我们的论文"Probabilistic Extensions: A One-Step Framework for Finding Rectangle Attacks and Beyond."已被EUROCRYPT 2024<span style="color:red"><strong>（三大顶会之一）</strong></span>录用。
 - \[2024-01\]我们的论文"Optimizing Rectangle and Boomerang Attacks: A Unified and Generic Framework for Key Recovery"已被Journal of Cryptology<span style="color:red"><strong>（密码学唯一旗舰期刊）</strong></span>录用。
 - \[2024-01\]我们的专利"密码算法安全性分析方法、系统、设备及存储介质"（专利号：ZL202311341424.XX）已授权。
 - \[2023-12\]我们实验室联合厦门大学举办"[The 10th Asian Workshop on Symmetric Key Cryptography](https://askworkshop.github.io/ask2023/)"(第十届亚洲对称密钥密码学研讨会)。
 - \[2023-10\]我们的论文"Generic attacks on small-state stream cipher constructions in the multi-user setting"已被Cybersecurity期刊录用。
+- \[2023-09\]我们的论文“Revisiting the Boomerang Attack from a Perspective of 3-differential”已被IEEE Transactions on Information Theory录用。
 - \[2023-07\]我的的论文"Improving the Rectangle Attack on GIFT-64"已被Selected Areas in Cryptography 2023录用。
+- \[2023-06\]我们的论文“Improved Related-Key Rectangle Attack Against the Full AES-192”被ICICS 2023会议录用，获<span style="color:red"><strong>Best Paper</strong></span>奖提名
 - \[2023-05\]我们的论文“An image encryption scheme based on chaotic system and compressed sensing for multiple application scenarios.”已被INFORMATION SCIENCES期刊录用。
 - \[2023-04\]我们的论文“Improved Differential Cryptanalysis on SPECK Using Plaintext Structures.”<span style="color:red"><strong>（best paper）</strong></span>已被ACISP 2023会议录用。
 - \[2022-11\]我们的论文“New Properties of the Double Boomerang Connectivity Table. ”已被IACR Trans. Symmetric Cryptol.2022录用。
