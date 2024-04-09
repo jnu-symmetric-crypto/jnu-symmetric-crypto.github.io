@@ -13,7 +13,12 @@ sidebar:
 
 # 工具
 
-- <a href = "https://github.com/msoos/cryptominisat">cryptominisat </a>
-- <a href = "https://github.com/arminbiere/cadical">cadical</a>
+|工具名称|链接|对应论文|功能|
+|-|-|-|-|
+|1|1|1|1|
+
+
+- <a href = "https://github.com/msoos/cryptominisat">Cryptominisat </a>
+- <a href = "https://github.com/arminbiere/cadical">Cadical</a>
 
 
