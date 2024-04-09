@@ -26,7 +26,7 @@ sidebar:
 # 新闻
 
 - \[2024-04\]我们的论文“Improving Differential-Neural Cryptanalysis for Large-State SPECK”被ICICS 2024会议接收。
-- \[2024-03\]我们的论文“CCA security for contracting (quasi-) Feistel constructions with tight round complexity”被DDC期刊接收。
+- \[2024-03\]我们的论文“CCA security for contracting (quasi-) Feistel constructions with tight round complexity”被DCC期刊接收。
 - \[2024-03\]我们的论文"Revisiting the Shuffle of Generalized Feistel Structure"已被Cybersecurity期刊录用。
 - \[2024-03\]我们的论文"Probabilistic Extensions: A One-Step Framework for Finding Rectangle Attacks and Beyond."已被EUROCRYPT 2024<span style="color:red"><strong>（三大顶会之一）</strong></span>录用。
 - \[2024-01\]我们的论文"Optimizing Rectangle and Boomerang Attacks: A Unified and Generic Framework for Key Recovery"已被Journal of Cryptology<span style="color:red"><strong>（密码学唯一旗舰期刊）</strong></span>录用。
