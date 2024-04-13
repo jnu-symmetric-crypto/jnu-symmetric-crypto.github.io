@@ -14,7 +14,7 @@ sidebar:
 <style type="text/css">
   .member-img-container table{
     width: 100%;
-    table-layout: fixed;
+    table-layout: auto;
   }
   .member-img-container th{
     text-align: center;
