@@ -27,7 +27,7 @@ sidebar:
                 </div>
                 <div>
                     <span>《The Block Cipher Companion》</span><br/>
-                    <span>[下载链接](https://link.springer.com/book/10.1007/978-3-642-17342-4)</span>
+                    <span><a href="https://link.springer.com/book/10.1007/978-3-642-17342-4">[下载链接]</a></span>
                 </div>
             </td>
             <td>
@@ -36,7 +36,7 @@ sidebar:
                 </div>
                 <div>
                     <span>《Symmetric Cryptography 1: Design and Security Proofs》</span><br/>
-                    <span>[下载链接](https://www.wiley.com/en-ca/Symmetric+Cryptography%2C+Volume+1%3A+Design+and+Security+Proofs-p-9781394256341)，内部电子版，仅供学习，可联系songlingcs@163.com</span>
+                    <span><a href="https://www.wiley.com/en-ca/Symmetric+Cryptography%2C+Volume+1%3A+Design+and+Security+Proofs-p-9781394256341">[下载链接]</a>，内部电子版，仅供学习，可联系songlingcs@163.com</span>
                 </div>
             </td>
             <td>
@@ -45,7 +45,7 @@ sidebar:
                 </div>
                 <div>
                     <span>《Symmetric Cryptography 2: Cryptanalysis and Future Directions》</span><br/>
-                    <span>[下载链接](https://www.wiley.com/en-ca/Symmetric+Cryptography,+Volume+2%3A+Cryptanalysis+and+Future+Directions-p-9781789451474)</span>
+                    <span><a href="https://www.wiley.com/en-ca/Symmetric+Cryptography,+Volume+2%3A+Cryptanalysis+and+Future+Directions-p-9781789451474">[下载链接]</a></span>
                 </div>
             </td>
             <td>
@@ -54,7 +54,7 @@ sidebar:
                 </div>
                 <div>
                     <span>《A Tutorial on Linear and Differential Cryptanalysis》</span><br/>
-                    <span>[下载链接](http://www.cs.bc.edu/~straubin/crypto2017/heys.pdf)</span>
+                    <span><a href="http://www.cs.bc.edu/~straubin/crypto2017/heys.pdf">[下载链接]</a></span>
                 </div>
             </td>
         </tr>
