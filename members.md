@@ -24,6 +24,7 @@ sidebar:
   }
   .member-img-container td{
     text-align: center;
+    width: 200px;
   }
   .member-img-container img {
       width: 120px; 
@@ -38,7 +39,7 @@ sidebar:
 <h1>教师</h1>
 
 <div class="member-img-container">
-    <table table-layout="fixed" width="100%">
+    <table>
         <tr>
             <td>
                 <div>
