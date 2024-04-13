@@ -140,8 +140,6 @@ sidebar:
 
 <ul>
     <li>何镜东（Jingdong He）  [202210-202304]</li>
-    <li>项目2</li>
-    <li>项目3</li>
 </ul>
 
 <h1>已毕业学生</h1>
