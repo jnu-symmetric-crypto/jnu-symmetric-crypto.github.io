@@ -12,23 +12,7 @@ sidebar:
 ---
 
 <style type="text/css">
-/*   .member-img-container table{
-    width: 100%;
-    table-layout: fixed;
-  }
-  .member-img-container th{
-    text-align: center;
-  }
-  .member-img-container td{
-    text-align: center;
-  }
-  .member-img-container img {
-      width: 120px; 
-      height: 120px; 
-      border-radius: 50%;
-      overflow: hidden;
-  } */
-  .menber-img-container{
+  .member-img-container{
     display:flex;
     justify-content:space-between;
   }
@@ -38,7 +22,7 @@ sidebar:
 
 <h1>教师</h1>
 
-<div class="member-img-container">
+<div class="member-img-container" >  
               <div>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-sl.jpg">
