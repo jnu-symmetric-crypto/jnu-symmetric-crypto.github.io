@@ -18,12 +18,12 @@ sidebar:
 - Symmetric Cryptography 1: Design and Security Proofs【[下载链接](https://www.wiley.com/en-ca/Symmetric+Cryptography%2C+Volume+1%3A+Design+and+Security+Proofs-p-9781394256341)，内部电子版，仅供学习，可联系songlingcs@163.com】
 - Symmetric Cryptography 2: Cryptanalysis and Future Directions【[下载链接](https://www.wiley.com/en-ca/Symmetric+Cryptography,+Volume+2%3A+Cryptanalysis+and+Future+Directions-p-9781789451474)】
 
-<div>
+<div class="book-img-container">
     <table width="100%">
         <tr align="center">
             <td>
                 <div>
-                    <img alt="book" src="/assets/images/book/book-the-block-cipher.png" height="300" width="200">
+                    <img alt="book" src="/assets/images/book/book-the-block-cipher.png">
                 </div>
                 <div>
                     <span>《The Block Cipher Companion》</span><br/>
@@ -32,7 +32,7 @@ sidebar:
             </td>
             <td>
                 <div>
-                    <img alt="book" src="/assets/images/book/book-symmetric-cryptography-1.png" height="300" width="200">
+                    <img alt="book" src="/assets/images/book/book-symmetric-cryptography-1.png">
                 </div>
                 <div>
                     <span>《Symmetric Cryptography 1: Design and Security Proofs》</span><br/>
@@ -41,7 +41,7 @@ sidebar:
             </td>
             <td>
                 <div>
-                    <img alt="book" src="/assets/images/book/book-symmetric-cryptography-2.png" height="300" width="200">
+                    <img alt="book" src="/assets/images/book/book-symmetric-cryptography-2.png">
                 </div>
                 <div>
                     <span>《Symmetric Cryptography 2: Cryptanalysis and Future Directions》</span><br/>
@@ -50,7 +50,7 @@ sidebar:
             </td>
             <td>
                 <div>
-                    <img alt="book" src="/assets/images/book/book-a-tutorail.png" height="300" width="200">
+                    <img alt="book" src="/assets/images/book/book-a-tutorail.png">
                 </div>
                 <div>
                     <span>《A Tutorial on Linear and Differential Cryptanalysis》</span><br/>
