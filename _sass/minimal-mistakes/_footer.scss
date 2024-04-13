@@ -2,7 +2,7 @@
    FOOTER
    ========================================================================== */
 
-/* .page__footer {
+.page__footer {
   @include clearfix;
   float: left;
   margin-left: 0;
@@ -20,7 +20,7 @@
   animation: $intro-transition;
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
-  background-color: $footer-background-color;
+  background-color:  transparent;//$footer-background-color;
 
   footer {
     @include clearfix;
@@ -89,4 +89,4 @@
     }
   }
 }
-*/
+
