@@ -62,7 +62,7 @@ sidebar:
             </td>
             <td>
                 <div>
-                    <img alt="member" src="/assets/images/members/mem-niming.png">
+                    <img alt="member" src="/assets/images/members/mem-lvy.jpg">
                 </div>
                 <div>
                     <span>吕垠（Yin Lv）</span><br/>
@@ -80,7 +80,7 @@ sidebar:
         <tr>
             <td>
                 <div>
-                    <img alt="member" src="/assets/images/members/mem-niming.png">
+                    <img alt="member" src="/assets/images/members/mem-fqg.jpg">
                 </div>
                 <div>
                     <span>符清杆（Qinggan Fu）</span><br/>
@@ -143,7 +143,7 @@ sidebar:
             </td>
             <td>
                 <div>
-                    <img alt="member" src="/assets/images/members/mem-niming.png">
+                    <img alt="member" src="/assets/images/members/mem-htr.jpg">
                 </div>
                 <div>
                     <span>黄添榕（Tianrong Huang）</span><br/>
