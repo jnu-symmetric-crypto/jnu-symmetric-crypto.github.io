@@ -11,6 +11,13 @@ sidebar:
     nav: "research"  
 ---
 <style type="text/css">
+      .member-img-container {
+        display: flex;
+    }
+    .member-img-container div {
+        flex: 1;
+        padding: 5px;
+    }
     .member-img-container img {
         width: 120px; 
         height: 120px; 
