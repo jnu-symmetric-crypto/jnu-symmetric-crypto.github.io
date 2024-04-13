@@ -48,19 +48,6 @@ docsm:
 
   - title: 小组成员
     url: /members/
-    children:
-      - title: "教师"
-        url: /members/#教师
-      - title: "博士生"
-        url: /members/#博士
-      - title: "硕士生"
-        url: /members/#硕士
-      - title: "参与讨论的本科生"
-        url: /members/#本科
-#      - title: "访学者"
-#        url: /members/#访学      
-      - title: "已毕业学生"
-        url: /members/#已毕业
         
   - title: 论文发表
     url: /publications/
