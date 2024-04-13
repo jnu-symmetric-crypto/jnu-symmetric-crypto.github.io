@@ -11,10 +11,6 @@ sidebar:
     nav: "research"  
 ---
 
-# 教师
-
-- **宋凌（Ling Song)**（暨南大学网络空间安全学院教授）【[学院教师主页](https://cybsec.jnu.edu.cn/2023/1120/c39591a781833/page.htm)】【[个人主页](https://sites.google.com/view/ling-song/home)】
-
 
 # 博士生
 
@@ -51,13 +47,14 @@ sidebar:
         overflow: hidden;
     }
 </style>
+
 # 教师
 <div class="member-img-container">
     <table width="100%">
         <tr align="center">
             <td>
                 <div>
-                    <img alt="member" src="/assets/images/members/mem-songling.jpg">
+                    <img alt="member" src="/assets/images/members/mem-sl.jpg">
                 </div>
                 <div>
                     <span><b>宋凌（Ling Song)</b><br/>
@@ -66,32 +63,47 @@ sidebar:
             </td>
             <td>
                 <div>
-                    <img alt="member" src="/assets/images/book/book-a-tutorail.png">
+                    <img alt="member" src="/assets/images/members/mem-niming.png">
                 </div>
                 <div>
-                    <span>《A Tutorial on Linear and Differential Cryptanalysis》</span><br/>
-                    <span><a href="http://www.cs.bc.edu/~straubin/crypto2017/heys.pdf">[下载链接]</a></span>
+                    <span>吕垠（Yin Lv）</span><br/>
+                    <span>华南师范大学老师</span>
                 </div>
             </td>
         </tr>
-         <td title="内部电子版，仅供学习，可联系songlingcs@163.com">
-                <div>
-                    <img alt="member" src="/assets/images/book/book-symmetric-cryptography-1.png">
-                </div>
-                <div >
-                    <span>《Symmetric Cryptography 1: Design and Security Proofs》</span><br/>
-                    <span><a href="https://www.wiley.com/en-ca/Symmetric+Cryptography%2C+Volume+1%3A+Design+and+Security+Proofs-p-9781394256341">[下载链接]</a></span>
-                </div>
-            </td>
-         <tr align="center">
+    </table>
+</div>
+                      
+# 博士生
 
+<div class="member-img-container">
+    <table width="100%">
+         <tr align="center">
             <td>
                 <div>
-                    <img alt="member" src="/assets/images/book/book-symmetric-cryptography-2.png">
+                    <img alt="member" src="/assets/images/members/mem-niming.png">
                 </div>
                 <div>
-                    <span>《Symmetric Cryptography 2: Cryptanalysis and Future Directions》</span><br/>
-                    <span><a href="https://www.wiley.com/en-ca/Symmetric+Cryptography,+Volume+2%3A+Cryptanalysis+and+Future+Directions-p-9781789451474">[下载链接]</a></span>
+                    <span>符清杆（Qinggan Fu）</span><br/>
+                    <span>2022级博士</span>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <img alt="member" src="/assets/images/members/mem-niming.png">
+                </div>
+                <div>
+                    <span>刘慧敏（Huimin Liu）</span><br/>
+                    <span>2023级博士</span>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <img alt="member" src="/assets/images/members/mem-niming.png">
+                </div>
+                <div>
+                    <span>李盈盈（Yingying Li）</span><br/>
+                    <span>2023级博士</span>
                 </div>
             </td>
       </tr>
