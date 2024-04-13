@@ -16,6 +16,7 @@ sidebar:
     width: 100%;
     table-layout: fixed;
     display:flex;
+    justify-content: space-around;
   }
   .member-img-container th,td{
         text-align: center;
