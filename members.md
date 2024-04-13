@@ -64,8 +64,8 @@ sidebar:
 <h1>博士生</h1>
 
 <div class="member-img-container">
-    <table>
-         <tr>
+    <table style="width: 100%;table-layout: fixed;">
+        <tr style='width:100%;text-align: center;'>
             <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-niming.png">
