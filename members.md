@@ -25,6 +25,9 @@ sidebar:
         border-radius: 50%;
         overflow: hidden;
     }
+  .member-img-container table{
+    table-layout: auto;
+  }
   .member-img-container th,td{
         text-align: center;
         padding: 10px;
