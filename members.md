@@ -13,7 +13,7 @@ sidebar:
 
 <style type="text/css">
   .member-img-container{
-    display: none;
+    display: table;
   }
   .member-img-container table{
     width: 100%;
