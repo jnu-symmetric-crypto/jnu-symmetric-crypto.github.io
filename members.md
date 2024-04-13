@@ -13,6 +13,7 @@ sidebar:
 <style type="text/css">
       .member-img-container {
         display: flex;
+        margin: 0 auto; 
     }
     .member-img-container div {
         flex: 1;
