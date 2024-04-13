@@ -13,8 +13,8 @@ sidebar:
 
 <style>
     .book-img-container img {
-        width: 100px; 
-        height: 160px; 
+        width: 150px; 
+        height: 240px; 
     }
 </style>
 
@@ -34,7 +34,18 @@ sidebar:
                     <span><a href="https://link.springer.com/book/10.1007/978-3-642-17342-4">[下载链接]</a></span>
                 </div>
             </td>
-            <td title="内部电子版，仅供学习，可联系songlingcs@163.com">
+            <td>
+                <div>
+                    <img alt="book" src="/assets/images/book/book-a-tutorail.png">
+                </div>
+                <div>
+                    <span>《A Tutorial on Linear and Differential Cryptanalysis》</span><br/>
+                    <span><a href="http://www.cs.bc.edu/~straubin/crypto2017/heys.pdf">[下载链接]</a></span>
+                </div>
+            </td>
+        </tr>
+      <tr align="center">
+         <td title="内部电子版，仅供学习，可联系songlingcs@163.com">
                 <div>
                     <img alt="book" src="/assets/images/book/book-symmetric-cryptography-1.png">
                 </div>
@@ -52,16 +63,7 @@ sidebar:
                     <span><a href="https://www.wiley.com/en-ca/Symmetric+Cryptography,+Volume+2%3A+Cryptanalysis+and+Future+Directions-p-9781789451474">[下载链接]</a></span>
                 </div>
             </td>
-            <td>
-                <div>
-                    <img alt="book" src="/assets/images/book/book-a-tutorail.png">
-                </div>
-                <div>
-                    <span>《A Tutorial on Linear and Differential Cryptanalysis》</span><br/>
-                    <span><a href="http://www.cs.bc.edu/~straubin/crypto2017/heys.pdf">[下载链接]</a></span>
-                </div>
-            </td>
-        </tr>
+      </tr>
     </table>
 </div>
 
