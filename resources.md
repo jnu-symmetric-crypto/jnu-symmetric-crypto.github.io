@@ -20,10 +20,7 @@ sidebar:
 
 # 资料
 
-- The Block Cipher Companion【[下载链接](https://link.springer.com/book/10.1007/978-3-642-17342-4)】
-- A Tutorial on Linear and Differential Cryptanalysis【[下载链接](http://www.cs.bc.edu/~straubin/crypto2017/heys.pdf)】
-- Symmetric Cryptography 1: Design and Security Proofs【[下载链接](https://www.wiley.com/en-ca/Symmetric+Cryptography%2C+Volume+1%3A+Design+and+Security+Proofs-p-9781394256341)，内部电子版，仅供学习，可联系songlingcs@163.com】
-- Symmetric Cryptography 2: Cryptanalysis and Future Directions【[下载链接](https://www.wiley.com/en-ca/Symmetric+Cryptography,+Volume+2%3A+Cryptanalysis+and+Future+Directions-p-9781789451474)】
+
 
 <div class="book-img-container">
     <table width="100%">
@@ -37,13 +34,13 @@ sidebar:
                     <span><a href="https://link.springer.com/book/10.1007/978-3-642-17342-4">[下载链接]</a></span>
                 </div>
             </td>
-            <td>
+            <td title="内部电子版，仅供学习，可联系songlingcs@163.com">
                 <div>
                     <img alt="book" src="/assets/images/book/book-symmetric-cryptography-1.png">
                 </div>
-                <div>
+                <div >
                     <span>《Symmetric Cryptography 1: Design and Security Proofs》</span><br/>
-                    <span><a href="https://www.wiley.com/en-ca/Symmetric+Cryptography%2C+Volume+1%3A+Design+and+Security+Proofs-p-9781394256341">[下载链接]</a>，内部电子版，仅供学习，可联系songlingcs@163.com</span>
+                    <span><a href="https://www.wiley.com/en-ca/Symmetric+Cryptography%2C+Volume+1%3A+Design+and+Security+Proofs-p-9781394256341">[下载链接]</a></span>
                 </div>
             </td>
             <td>
