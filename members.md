@@ -33,14 +33,12 @@ sidebar:
         overflow: hidden;
     }
   .member-img-container th,td{
-     border: 1px solid black;
         text-align: center;
         padding: 10px;
   }
 </style>
 
 
-<body>
 
 <h1>教师</h1>
 
@@ -166,7 +164,6 @@ sidebar:
     <li>王  超（Chao Wang） [2023届，就职于广东海洋大学（阳江）数学与计算机学院]</li>
 </ul>
 
-</body>
 
 
 
