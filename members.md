@@ -11,14 +11,6 @@ sidebar:
     nav: "research"  
 ---
 <style type="text/css">
-    body {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        min-height: 100vh;
-        margin: 0;
-    }
-  
       .member-img-container {
         display: flex;
     }
@@ -161,7 +153,7 @@ sidebar:
 <ul>
     <li>冯倬惠（Zhuohui Feng） [2023届，就职于广东海洋大学（阳江）网络空间安全学院]</li>
     <li>梁轩宇（Xuanyu Liang） [2023届，就职于中山市公安局]</li>
-    <li>王  超（Chao Wang） [2023届，就职于广东海洋大学（阳江）数学与计算机学院]</li>
+    <li>王  超（Chao Wang） [2023届，就职于广东海洋大学（湛江）数学与计算机学院]</li>
 </ul>
 
 
