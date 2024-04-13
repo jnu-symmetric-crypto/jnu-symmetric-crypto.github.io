@@ -38,7 +38,7 @@ sidebar:
 <h1>教师</h1>
 
 <div class="member-img-container">
-    <table style="table-layout:fixed;" width="100%">
+    <table table-layout="fixed" width="100%">
         <tr>
             <td>
                 <div>
