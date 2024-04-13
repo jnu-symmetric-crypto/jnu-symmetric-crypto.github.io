@@ -92,11 +92,6 @@ sidebar:
 
 <h1>硕士生</h1>
 
-- 陈胤岑（Yincen Chen）
-- 罗  业（Ye Luo）
-- 黄健富（Jianfu Huang）
-- 黄添榕（Tianrong Huang）
-
 <div class="member-img-container">
     <table width="100%">
          <tr align="center">
