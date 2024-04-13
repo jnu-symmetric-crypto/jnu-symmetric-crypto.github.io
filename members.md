@@ -62,7 +62,7 @@ sidebar:
             </td>
             <td>
                 <div>
-                    <img alt="member" src="/assets/images/members/mem-lvy.jpg">
+                    <img alt="member" src="/assets/images/members/mem-lvy2.jpg">
                 </div>
                 <div>
                     <span>吕垠（Yin Lv）</span><br/>
