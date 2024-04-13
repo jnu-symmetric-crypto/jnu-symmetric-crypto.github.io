@@ -11,17 +11,6 @@ sidebar:
     nav: "research"  
 ---
 <style type="text/css">
-      .member-img-container {
-        margin: 0 auto; 
-    }
-    .member-img-container div {
-    }
-    .member-img-container img {
-        width: 120px; 
-        height: 120px; 
-        border-radius: 50%;
-        overflow: hidden;
-    }
   .member-img-container table{
     width: 100%;
     table-layout: fixed;
@@ -29,6 +18,12 @@ sidebar:
   .member-img-container th,td{
         text-align: center;
         padding: 10px;
+  }
+  .member-img-container img {
+      width: 120px; 
+      height: 120px; 
+      border-radius: 50%;
+      overflow: hidden;
   }
 </style>
 
