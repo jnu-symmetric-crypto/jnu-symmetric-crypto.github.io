@@ -26,7 +26,7 @@ sidebar:
   }
   .member-img-container td{
     text-align: center;
-    width: 200px;
+    width: 220px;
   }
   .member-img-container img {
       width: 120px; 
