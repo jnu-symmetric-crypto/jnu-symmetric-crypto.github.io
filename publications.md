@@ -15,6 +15,7 @@ sidebar:
 # 学生论文
 ## 2024
 - Yincen Chen, Yi Guo, Xuanyu Liang, **Ling Song**, Qianqian Yang: "Revisiting the Shuffle of Generalized Feistel Structure"已被Cybersecurity期刊录用。
+
 ## 2023
 - Yincen Chen, Nana Zhang, Xuanyu Liang, Qianqian Yang, **Ling Song**: "Improving the Rectangle Attack on GIFT-64"已被Selected Areas in Cryptography 2023录用。
 - Chao Wang, **Ling Song**. An image encryption scheme based on chaotic system and compressed sensing for multiple application scenarios[J]. Information Sciences, 2023, 642: 119166.
