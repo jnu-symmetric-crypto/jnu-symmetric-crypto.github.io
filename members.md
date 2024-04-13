@@ -10,10 +10,12 @@ sidebar:
   - title: " "
     nav: "research"  
 ---
+
 <style type="text/css">
   .member-img-container table{
     width: 100%;
     table-layout: fixed;
+    display:flex;
   }
   .member-img-container th,td{
         text-align: center;
