@@ -11,6 +11,13 @@ sidebar:
     nav: "research"
 ---
 
+<style>
+    .img-container img {
+        width: 100px; 
+        height: 160px; 
+    }
+</style>
+
 # 资料
 
 - The Block Cipher Companion【[下载链接](https://link.springer.com/book/10.1007/978-3-642-17342-4)】
@@ -60,3 +67,5 @@ sidebar:
         </tr>
     </table>
 </div>
+
+
