@@ -116,7 +116,7 @@ sidebar:
          <tr>
             <td>
                 <div>
-                    <img alt="member" src="/assets/images/members/mem-cyc.png">
+                    <img alt="member" src="/assets/images/members/mem-cyc.jpg">
                 </div>
                 <div>
                     <span>陈胤岑（Yincen Chen）</span><br/>
@@ -125,7 +125,7 @@ sidebar:
             </td>
             <td>
                 <div>
-                    <img alt="member" src="/assets/images/members/mem-ly.png">
+                    <img alt="member" src="/assets/images/members/mem-ly.jpg">
                 </div>
                 <div>
                     <span>罗  业（Ye Luo）</span><br/>
