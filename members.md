@@ -1,4 +1,4 @@
-![image](https://github.com/jnu-symmetric-crypto/jnu-symmetric-crypto.github.io/assets/134039672/fc4880f2-3c70-4a01-b614-20cd0328fc77)---
+---
 layout: single
 toc: false
 classes: wide
