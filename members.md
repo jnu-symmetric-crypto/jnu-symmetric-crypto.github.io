@@ -13,11 +13,11 @@ sidebar:
 
 <style type="text/css">
   .member-img-container{
-    display: table;
+    display: block;
   }
   .member-img-container table{
     width: 100%;
-    table-layout: auto;
+    table-layout: fixed;
   }
   .member-img-container th{
     text-align: center;
@@ -38,7 +38,7 @@ sidebar:
 <h1>教师</h1>
 
 <div class="member-img-container">
-    <table>
+    <table style="width: 100%;table-layout:fixed;">
         <tr>
             <td>
                 <div>
