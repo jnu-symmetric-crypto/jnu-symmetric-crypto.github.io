@@ -12,7 +12,7 @@ sidebar:
 ---
 
 <style>
-    .img-container img {
+    .book-img-container img {
         width: 100px; 
         height: 160px; 
     }
