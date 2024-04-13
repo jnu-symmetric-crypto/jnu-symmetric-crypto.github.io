@@ -36,8 +36,8 @@ sidebar:
                     <img alt="member" src="/assets/images/members/mem-sl.jpg">
                 </div>
                 <div>
-                    <span><b>宋凌（Ling Song)</b><br/>
-                    <span>暨南大学网络空间安全学院教授</span>
+                    <span><b>宋凌（Ling Song)</b></span>span><br/>
+                    <span>暨南大学网络空间安全学院教授</span><br/>
                       <span>【<a href="https://cybsec.jnu.edu.cn/2023/1120/c39591a781833/page.htm">[学院教师主页]</a>】【<a href="https://sites.google.com/view/ling-song/home">[个人主页]</a>】</span>
                 </div>
             </td>
