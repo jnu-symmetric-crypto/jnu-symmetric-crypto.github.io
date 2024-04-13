@@ -134,7 +134,7 @@ sidebar:
             </td>
             <td>
                 <div>
-                    <img alt="member" src="/assets/images/members/mem-niming.png">
+                    <img alt="member" src="/assets/images/members/mem-hjf.jpg">
                 </div>
                 <div>
                     <span>黄健富（Jianfu Huang）</span><br/>
