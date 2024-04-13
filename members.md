@@ -33,7 +33,7 @@ sidebar:
 
 <div class="member-img-container">
     <table>
-        <tr">
+        <tr>
             <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-sl.jpg">
