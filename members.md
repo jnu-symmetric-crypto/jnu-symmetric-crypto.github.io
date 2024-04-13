@@ -36,8 +36,8 @@ sidebar:
 <h1>教师</h1>
 
 <div class="member-img-container">
-    <table>
-        <tr style='width:100%;'>
+    <table style="width: 100%;table-layout: fixed;">
+        <tr style='width:100%;text-align: center;'>
             <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-sl.jpg">
