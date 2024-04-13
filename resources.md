@@ -23,7 +23,7 @@ sidebar:
         <tr align="center">
             <td>
                 <div>
-                    <img alt="book" src="/assets/images/book/book-the-block-cipher.png" height="200" width="100">
+                    <img alt="book" src="/assets/images/book/book-the-block-cipher.png" height="300" width="200">
                 </div>
                 <div>
                     <span>《The Block Cipher Companion》</span><br/>
@@ -32,7 +32,7 @@ sidebar:
             </td>
             <td>
                 <div>
-                    <img alt="book" src="/assets/images/book/book-symmetric-cryptography-1.png">
+                    <img alt="book" src="/assets/images/book/book-symmetric-cryptography-1.png" height="300" width="200">
                 </div>
                 <div>
                     <span>《Symmetric Cryptography 1: Design and Security Proofs》</span><br/>
@@ -41,7 +41,7 @@ sidebar:
             </td>
             <td>
                 <div>
-                    <img alt="book" src="/assets/images/book/book-symmetric-cryptography-2.png">
+                    <img alt="book" src="/assets/images/book/book-symmetric-cryptography-2.png" height="300" width="200">
                 </div>
                 <div>
                     <span>《Symmetric Cryptography 2: Cryptanalysis and Future Directions》</span><br/>
@@ -50,7 +50,7 @@ sidebar:
             </td>
             <td>
                 <div>
-                    <img alt="book" src="/assets/images/book/book-a-tutorail.png">
+                    <img alt="book" src="/assets/images/book/book-a-tutorail.png" height="300" width="200">
                 </div>
                 <div>
                     <span>《A Tutorial on Linear and Differential Cryptanalysis》</span><br/>
