@@ -98,7 +98,7 @@ sidebar:
             </td>
             <td>
                 <div>
-                    <img alt="member" src="/assets/images/members/mem-niming.png">
+                    <img alt="member" src="/assets/images/members/mem-lyy.jpg">
                 </div>
                 <div>
                     <span>李盈盈（Yingying Li）</span><br/>
