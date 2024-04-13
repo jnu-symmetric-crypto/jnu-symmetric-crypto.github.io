@@ -1,4 +1,4 @@
----
+![image](https://github.com/jnu-symmetric-crypto/jnu-symmetric-crypto.github.io/assets/134039672/fc4880f2-3c70-4a01-b614-20cd0328fc77)---
 layout: single
 toc: false
 classes: wide
@@ -44,103 +44,59 @@ sidebar:
 
 
 <style type="text/css">
-  .firstLevel {   list-style: none;     } .secondLevel {    display: none;  } #first1:hover ul, #first2:hover ul, #first3:hover ul {    display: block; } 
+    .member-img-container img {
+        width: 120px; 
+        height: 120px; 
+        border-radius: 50%;
+        overflow: hidden;
+    }
 </style>
-<div id="content">
 
-
-<div id = "content3">
-  <h2>Group Member</h2><br>
-  <font size="4" color="black">PhD Students</font><br>
-          <table width="760" height="200">
-
-        <tr>
-            <center>
-          <td><center>
-            <div id="divcss5"><img src="student/Ziyu.jpeg" width="140" height="140" alt=""></div>
-
-              <font size="2" color="black"><a href="https://zzyben.github.io/">Ziyu Zhou</a> (Spring 2022, Co-Advised with <a href="http://www.tulane.edu/~wyp/">Pro. Yu-Ping Wang</a>)</font>
-
-          </center>
-          </td>
-
-          <td><center>
-            <div id="divcss5"><img src="student/Xin.jpeg" width="140" height="140" alt=""></div>
-            
-              <font size="2" color="black"><a href="">Xin Hu</a> (Fall 2022)</font>
-
-          </center>
-          </td>
-        </center>
-          </tr>
-
-                  <tr>
-            <center>
-          <td><center>
-            <div id="divcss5"><img src="student/kiran.jpeg" width="140" height="140" alt=""></div>
-
-              <font size="2" color="black"><a href="">Kiran Shrestha</a> (Spring 2023)</font>
-
-          </center>
-          </td>
-
-          <td><center>
-          <div id="divcss5"><img src="student/Daniel.jpeg" width="140" height="140" alt=""></div>
-
-              <font size="2" color="black"><a href="">Zhige Wang</a> (Fall 2023, Co-Advised with <a href="https://www.liuxlab.org/contact/">Pro. Xiaowen Liu</a>))</font>
-
-          </center>
-          </td>
-
-        </center>
-          </tr>
-
-
-                 <tr>
-            <center>
-          <td><center>
-            <div id="divcss5"><img src="student/zixiang.jpeg" width="140" height="140" alt=""></div>
-
-              <font size="2" color="black"><a href="">Zixiang Yin</a> (Fall 2023)</font>
-
-          </center>
-          </td>
-
-          <td><center>
-
-
-          </center>
-          </td>
-
-        </center>
-          </tr>
-       
-
-          </table>
-
-  <br>  <br>  <br>
-
-
-        <font size="4" color="black">Alumni</font><br>
-
- <font size="2" color="black"><a href="https://scottjingtt.github.io/about/">Taotao Jing</a> (PhD @ 01/2019 - 07/2023, Computer Vision Engineer at Qualcomm)</font><br>
-<font size="2" color="black"><a href='https://haifengxia.github.io'>Haifeng Xia</a> (PhD @ 08/2019 - 05/2023, Associate Professor at Southeast University)</font><br>
-
-    <font size="2" color="black"><a href='https://davidpengiupui.github.io/'>Qucheng Peng</a> (Master @ IUPUI, 06/2020 - 04/2022, now PhD at University of Central Florida)</font><br>
-                <font size="2" color="black"><a href="http://sa.whut.edu.cn/yjspy/dsdw/202301/t20230106_546224.shtml">Bingrong Xu</a> (Vistsing PhD @ IUPUI, 06/2019 - 01/2021, Associate Professor at Wuhan University of
-Technology)</font><br>
-                    <font size="2" color="black"><a href="https://github.com/qiumei1101">Mei Qiu </a>(PhD @ IUPUI, 08/2019 - 12/2020)</font>
-
-
- 
- </div>
-
-
-</ul>
+<div class="member-img-container">
+    <table width="100%">
+        <tr align="center">
+            <td>
+                <div>
+                    <img alt="book" src="/assets/images/book/book-the-block-cipher.png">
+                </div>
+                <div>
+                    <span>《The Block Cipher Companion》</span><br/>
+                    <span><a href="https://link.springer.com/book/10.1007/978-3-642-17342-4">[下载链接]</a></span>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <img alt="book" src="/assets/images/book/book-a-tutorail.png">
+                </div>
+                <div>
+                    <span>《A Tutorial on Linear and Differential Cryptanalysis》</span><br/>
+                    <span><a href="http://www.cs.bc.edu/~straubin/crypto2017/heys.pdf">[下载链接]</a></span>
+                </div>
+            </td>
+        </tr>
+      <tr align="center">
+         <td title="内部电子版，仅供学习，可联系songlingcs@163.com">
+                <div>
+                    <img alt="book" src="/assets/images/book/book-symmetric-cryptography-1.png">
+                </div>
+                <div >
+                    <span>《Symmetric Cryptography 1: Design and Security Proofs》</span><br/>
+                    <span><a href="https://www.wiley.com/en-ca/Symmetric+Cryptography%2C+Volume+1%3A+Design+and+Security+Proofs-p-9781394256341">[下载链接]</a></span>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <img alt="book" src="/assets/images/book/book-symmetric-cryptography-2.png">
+                </div>
+                <div>
+                    <span>《Symmetric Cryptography 2: Cryptanalysis and Future Directions》</span><br/>
+                    <span><a href="https://www.wiley.com/en-ca/Symmetric+Cryptography,+Volume+2%3A+Cryptanalysis+and+Future+Directions-p-9781789451474">[下载链接]</a></span>
+                </div>
+            </td>
+      </tr>
+    </table>
 </div>
 
-
-</div>
 
 
 
