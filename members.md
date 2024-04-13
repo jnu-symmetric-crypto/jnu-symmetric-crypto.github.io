@@ -14,7 +14,7 @@ sidebar:
 <style type="text/css">
   .member-img-container{
     display: block;
-    overflow-x: auto; /* 水平方向溢出时显示滚动条 *
+    overflow-x: auto; 
   }
   .member-img-container table{
     width: 100%; /* 设置容器宽度 */
