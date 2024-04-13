@@ -23,7 +23,7 @@ sidebar:
         <tr align="center">
             <td>
                 <div>
-                    <img alt="book" src="/assets/images/book/book-the-block-cipher.png">
+                    <img alt="book" src="/assets/images/book/book-the-block-cipher.png" height="200" width="100">
                 </div>
                 <div>
                     <span>《The Block Cipher Companion》</span><br/>
@@ -59,5 +59,4 @@ sidebar:
             </td>
         </tr>
     </table>
-</div>
 </div>
