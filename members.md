@@ -34,7 +34,7 @@ sidebar:
   }
 
     /* 在较小的屏幕尺寸下调整表格样式 */
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 800px) {
     .member-img-container {
       overflow-x: scroll; /* 横向溢出时始终显示滚动条 */
       width: 100%; /* 容器宽度设置为100% */
