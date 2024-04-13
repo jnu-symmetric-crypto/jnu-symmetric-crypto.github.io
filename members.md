@@ -15,12 +15,13 @@ sidebar:
   .member-img-container table{
     width: 100%;
     table-layout: fixed;
-    display:flex;
-    justify-content: space-around;
   }
-  .member-img-container th,td{
-        text-align: center;
-        padding: 10px;
+  .member-img-container th{
+    text-align: center;
+  }
+  .member-img-container td{
+    text-align: center;
+    width: 25%;
   }
   .member-img-container img {
       width: 120px; 
