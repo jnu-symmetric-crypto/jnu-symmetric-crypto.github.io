@@ -23,7 +23,8 @@ sidebar:
         overflow: hidden;
     }
   .member-img-container table{
-    table-layout: auto;
+    width: 100%;
+    table-layout: fixed;
   }
   .member-img-container th,td{
         text-align: center;
@@ -36,8 +37,8 @@ sidebar:
 <h1>教师</h1>
 
 <div class="member-img-container">
-    <table width="100%">
-        <tr align="center">
+    <table>
+        <tr">
             <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-sl.jpg">
@@ -64,8 +65,8 @@ sidebar:
 <h1>博士生</h1>
 
 <div class="member-img-container">
-    <table width="100%">
-         <tr align="center">
+    <table>
+         <tr>
             <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-niming.png">
@@ -100,8 +101,8 @@ sidebar:
 <h1>硕士生</h1>
 
 <div class="member-img-container">
-    <table width="100%">
-         <tr align="center">
+    <table>
+         <tr>
             <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-niming.png">
@@ -154,7 +155,7 @@ sidebar:
 <ul>
     <li>冯倬惠（Zhuohui Feng） [2023届，就职于广东海洋大学（阳江）网络空间安全学院]</li>
     <li>梁轩宇（Xuanyu Liang） [2023届，就职于中山市公安局]</li>
-    <li>王  超（Chao Wang） [2023届，就职于广东海洋大学（湛江）数学与计算机学院]</li>
+    <li>王    超（Chao Wang） [2023届，就职于广东海洋大学（湛江）数学与计算机学院]</li>
 </ul>
 
 
