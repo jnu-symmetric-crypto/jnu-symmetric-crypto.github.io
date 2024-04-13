@@ -51,17 +51,17 @@ sidebar:
         overflow: hidden;
     }
 </style>
-
+# 教师
 <div class="member-img-container">
     <table width="100%">
         <tr align="center">
             <td>
                 <div>
-                    <img alt="book" src="/assets/images/book/book-the-block-cipher.png">
+                    <img alt="book" src="/assets/images/members/mem-songling.jpg">
                 </div>
                 <div>
-                    <span>《The Block Cipher Companion》</span><br/>
-                    <span><a href="https://link.springer.com/book/10.1007/978-3-642-17342-4">[下载链接]</a></span>
+                    <span>**宋凌（Ling Song)**</span><br/>
+                    <span>暨南大学网络空间安全学院教授【<a href="https://cybsec.jnu.edu.cn/2023/1120/c39591a781833/page.htm">[学院教师主页]</a>】【<a href="https://sites.google.com/view/ling-song/home">[个人主页]</a>】</span>
                 </div>
             </td>
             <td>
@@ -74,7 +74,6 @@ sidebar:
                 </div>
             </td>
         </tr>
-      <tr align="center">
          <td title="内部电子版，仅供学习，可联系songlingcs@163.com">
                 <div>
                     <img alt="book" src="/assets/images/book/book-symmetric-cryptography-1.png">
@@ -84,6 +83,8 @@ sidebar:
                     <span><a href="https://www.wiley.com/en-ca/Symmetric+Cryptography%2C+Volume+1%3A+Design+and+Security+Proofs-p-9781394256341">[下载链接]</a></span>
                 </div>
             </td>
+         <tr align="center">
+
             <td>
                 <div>
                     <img alt="book" src="/assets/images/book/book-symmetric-cryptography-2.png">
