@@ -89,7 +89,7 @@ sidebar:
             </td>
             <td>
                 <div>
-                    <img alt="member" src="/assets/images/members/mem-niming.png">
+                    <img alt="member" src="/assets/images/members/mem-lhm.jpg">
                 </div>
                 <div>
                     <span>刘慧敏（Huimin Liu）</span><br/>
