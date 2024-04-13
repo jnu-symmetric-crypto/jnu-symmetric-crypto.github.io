@@ -15,7 +15,7 @@ sidebar:
   .member-img-container{
     width: 100%;
     overflow-x: auto; 
-    max-width: 1500px; /* 容器最大宽度为100% */
+    max-width: 1000px; /* 容器最大宽度为100% */
   }
   .member-img-container table{
     width: 1000px; /* 设置容器宽度 */
@@ -36,7 +36,7 @@ sidebar:
   }
 
     /* 在较小的屏幕尺寸下调整表格样式 */
-  @media screen and (max-width: 1200px) {
+  @media screen and (max-width: 1000px) {
     .member-img-container {
       overflow-x: scroll; /* 横向溢出时始终显示滚动条 */
       width: 100%; /* 容器宽度设置为100% */
