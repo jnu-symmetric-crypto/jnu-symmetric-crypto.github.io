@@ -13,11 +13,11 @@ sidebar:
 
 <style type="text/css">
   .member-img-container{
-    display: block;
     overflow-x: auto; 
   }
   .member-img-container table{
     width: 100%; /* 设置容器宽度 */
+    border-collapse: collapse; /* 合并表格边框 */
   }
   .member-img-container th{
     text-align: center;
@@ -32,6 +32,13 @@ sidebar:
       border-radius: 50%;
       overflow: hidden;
   }
+
+    /* 在较小的屏幕尺寸下调整表格样式 */
+  @media screen and (max-width: 600px) {
+    .member-img-container {
+      overflow-x: scroll; /* 横向溢出时始终显示滚动条 */
+      width: 100%; /* 容器宽度设置为100% */
+    }
 </style>
 
 
