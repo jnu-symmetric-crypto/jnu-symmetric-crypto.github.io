@@ -53,7 +53,7 @@ sidebar:
     </table>
 </div>
                       
-<h1>教师</h1>
+<h1>博士生</h1>
 
 <div class="member-img-container">
     <table width="100%">
@@ -89,23 +89,72 @@ sidebar:
     </table>
 </div>
 
-<h1>教师</h1>
+<h1>硕士生</h1>
 
 - 陈胤岑（Yincen Chen）
 - 罗  业（Ye Luo）
 - 黄健富（Jianfu Huang）
 - 黄添榕（Tianrong Huang）
 
-<h1>教师</h1>
+<div class="member-img-container">
+    <table width="100%">
+         <tr align="center">
+            <td>
+                <div>
+                    <img alt="member" src="/assets/images/members/mem-niming.png">
+                </div>
+                <div>
+                    <span>陈胤岑（Yincen Chen）</span><br/>
+                    <span>2021级学硕</span>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <img alt="member" src="/assets/images/members/mem-niming.png">
+                </div>
+                <div>
+                    <span>罗  业（Ye Luo）</span><br/>
+                    <span>2021级专硕</span>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <img alt="member" src="/assets/images/members/mem-niming.png">
+                </div>
+                <div>
+                    <span>黄健富（Jianfu Huang）</span><br/>
+                    <span>2021级专硕</span>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <img alt="member" src="/assets/images/members/mem-niming.png">
+                </div>
+                <div>
+                    <span>黄添榕（Tianrong Huang）</span><br/>
+                    <span>2022级学硕</span>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+ 
 
-- 何镜东（Jingdong He）  [202210-202304]
+<h1>本科生</h1>
 
-<h1>教师</h1>
+<ul>
+    <li>何镜东（Jingdong He）  [202210-202304]</li>
+    <li>项目2</li>
+    <li>项目3</li>
+</ul>
 
-- 冯倬惠（Zhuohui Feng） [2023届]
-- 梁轩宇（Xuanyu Liang） [2023届]
-- 王  超（Chao Wang） [2023届]
+<h1>已毕业学生</h1>
 
+<ul>
+    <li>冯倬惠（Zhuohui Feng） [2023届]</li>
+    <li>梁轩宇（Xuanyu Liang） [2023届]</li>
+    <li>王  超（Chao Wang） [2023届]</li>
+</ul>
 
 
 
