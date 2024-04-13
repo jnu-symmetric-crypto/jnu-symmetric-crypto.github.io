@@ -19,7 +19,7 @@ sidebar:
     }
 </style>
 
-# 教师
+<h1>教师</h1>
 
 <div class="member-img-container">
     <table width="100%">
@@ -46,7 +46,7 @@ sidebar:
     </table>
 </div>
                       
-# 博士生
+<h1>教师</h1>
 
 <div class="member-img-container">
     <table width="100%">
@@ -82,18 +82,18 @@ sidebar:
     </table>
 </div>
 
-# 硕士生
+<h1>教师</h1>
 
 - 陈胤岑（Yincen Chen）
 - 罗  业（Ye Luo）
 - 黄健富（Jianfu Huang）
 - 黄添榕（Tianrong Huang）
 
-# 本科生
+<h1>教师</h1>
 
 - 何镜东（Jingdong He）  [202210-202304]
 
-# 已毕业
+<h1>教师</h1>
 
 - 冯倬惠（Zhuohui Feng） [2023届]
 - 梁轩宇（Xuanyu Liang） [2023届]
