@@ -57,16 +57,16 @@ sidebar:
         <tr align="center">
             <td>
                 <div>
-                    <img alt="book" src="/assets/images/members/mem-songling.jpg">
+                    <img alt="member" src="/assets/images/members/mem-songling.jpg">
                 </div>
                 <div>
-                    <span>**宋凌（Ling Song)**</span><br/>
+                    <span><b>宋凌（Ling Song)</b><br/>
                     <span>暨南大学网络空间安全学院教授【<a href="https://cybsec.jnu.edu.cn/2023/1120/c39591a781833/page.htm">[学院教师主页]</a>】【<a href="https://sites.google.com/view/ling-song/home">[个人主页]</a>】</span>
                 </div>
             </td>
             <td>
                 <div>
-                    <img alt="book" src="/assets/images/book/book-a-tutorail.png">
+                    <img alt="member" src="/assets/images/book/book-a-tutorail.png">
                 </div>
                 <div>
                     <span>《A Tutorial on Linear and Differential Cryptanalysis》</span><br/>
@@ -76,7 +76,7 @@ sidebar:
         </tr>
          <td title="内部电子版，仅供学习，可联系songlingcs@163.com">
                 <div>
-                    <img alt="book" src="/assets/images/book/book-symmetric-cryptography-1.png">
+                    <img alt="member" src="/assets/images/book/book-symmetric-cryptography-1.png">
                 </div>
                 <div >
                     <span>《Symmetric Cryptography 1: Design and Security Proofs》</span><br/>
@@ -87,7 +87,7 @@ sidebar:
 
             <td>
                 <div>
-                    <img alt="book" src="/assets/images/book/book-symmetric-cryptography-2.png">
+                    <img alt="member" src="/assets/images/book/book-symmetric-cryptography-2.png">
                 </div>
                 <div>
                     <span>《Symmetric Cryptography 2: Cryptanalysis and Future Directions》</span><br/>
