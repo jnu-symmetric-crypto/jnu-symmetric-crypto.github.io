@@ -30,8 +30,10 @@ sidebar:
 # 教师论文
 
 ## 2024
+- Qianqian Yang, **Ling Song**, Nana Zhang, Danping Shi, Libo Wang, Jiahao Zhao, Lei Hu, Jian Weng: Optimizing Rectangle and Boomerang Attacks: A Unified and Generic Framework for Key Recovery. *J. Cryptol.* 37(2): 19 (2024) 密码学唯一旗舰期刊
+- **Ling Song**, Qianqian Yang, Yincen Chen, Lei Hu, Jian Weng: Probabilistic Extensions: A One-Step Framework for Finding Rectangle Attacks and Beyond. *EUROCRYPT* (1) 2024: 339-367 （三大顶会之一）
 - **宋凌**,黄健富,王超: 密码算法安全性分析方法、系统、设备及存储介质（专利申请号：ZL202311341424.X）
-- Ling Song, Qianqian Yang, Yincen Chen, Lei Hu, Jian Weng: Probabilistic Extensions: A One-Step Framework for Finding Rectangle Attacks and Beyond. IACR Cryptol. ePrint Arch. 2024: 344 (2024)
+- **Ling Song**, Qianqian Yang, Yincen Chen, Lei Hu, Jian Weng: Probabilistic Extensions: A One-Step Framework for Finding Rectangle Attacks and Beyond. IACR Cryptol. ePrint Arch. 2024: 344 (2024)
 
 ## 2023
 - Danping Shi, Siwei Sun, **Ling Song**, Lei Hu, Qianqian Yang: Exploiting Non-full Key Additions: Full-Fledged Automatic Demirci-Selçuk Meet-in-the-Middle Cryptanalysis of SKINNY. *EUROCRYPT* (4) 2023: 67-97（三大顶会之一）
