@@ -153,12 +153,10 @@ sidebar:
         </tr>
     </table>
 </div>
- 
-
 <h1>本科生</h1>
 
 <ul>
-    <li>何镜东（Jingdong He）  [202210-202304]</li>
+    <li>何镜东（Jingdong He）  【202210-202304】</li>
 </ul>
 
 <h1>已毕业学生</h1>
