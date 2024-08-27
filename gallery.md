@@ -41,7 +41,7 @@ gallery_all:
     title: "2024graduation-1"
   - url: "/assets/images/group/2024graduation-2.jpg"
     image_path: "/assets/images/group/2024graduation-2.jpg"
-    title: "2024graduation-2"  
+    title: "2024graduation-2"
 
 gallery_activity:
   - url: "/assets/images/climbing.jpg"
@@ -64,7 +64,9 @@ gallery_conference:
   - url: "/assets/images/asianc2023_part.jpg"
     image_path: "/assets/images/asianc2023_part.jpg"
     title: "Asiacrypt2023会议合照"
-
+  - url: "/assets/images/ec2024.jpg"
+    image_path: "/assets/images/ec2024.jpg"
+    title: "Eurocrypt2024会议合照"
 ---
 
 
