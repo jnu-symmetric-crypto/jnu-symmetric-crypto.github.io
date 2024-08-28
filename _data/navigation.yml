@@ -21,19 +21,19 @@ main:
 
    
 docs:    
-  - title: 新闻
+  - title: "新闻"
     url: /
 
-  - title: 小组成员
+  - title: "小组成员"
     url: /members/
         
-  - title: 论文发表
+  - title: "论文发表"
     url: /publications/
 
-  - title: 招生信息
+  - title: "招生信息"
     url: /positions/
 
-  - title: 画廊
+  - title: "画廊"
     url: /gallery/
    
   - title: "资料"
@@ -43,35 +43,35 @@ docs:
     url: /tools/
     
 docsm:
-  - title: 新闻
+  - title: "新闻"
     url: /
 
-  - title: 小组成员
+  - title: "小组成员"
     url: /members/
         
-  - title: 论文发表
+  - title: "论文发表"
     url: /publications/
 
-  - title: 招生信息
+  - title: "招生信息"
     url: /positions/
 
-  - title: 画廊
+  - title: "画廊"
     url: /gallery/
    
-  - title: 资料
+  - title: "资料"
     url: /resources/
 
-  - title: 工具
+  - title: "工具"
     url: /tools/
 
 docsp:
-  - title: 新闻
+  - title: "新闻"
     url: /
 
-  - title: 小组成员
+  - title: "小组成员"
     url: /members/
         
-  - title: 论文发表
+  - title: "论文发表"
     url: /publications/
     children:
       - title: "教师论文"
@@ -83,10 +83,10 @@ docsp:
         url: /publications/#学生论文
 
 
-  - title: 招生信息
+  - title: "招生信息"
     url: /positions/
     
-  - title: 画廊
+  - title: "画廊"
     url: /gallery/
   
   - title: "资料"
