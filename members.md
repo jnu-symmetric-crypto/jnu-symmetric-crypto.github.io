@@ -132,15 +132,7 @@ sidebar:
                     <span>2021级专硕</span>
                 </div>
             </td>
-            <td>
-                <div>
-                    <img alt="member" src="/assets/images/members/mem-hjf.jpg">
-                </div>
-                <div>
-                    <span>黄健富（Jianfu Huang）</span><br/>
-                    <span>2021级专硕</span>
-                </div>
-            </td>
+
             <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-htr.jpg">
@@ -165,6 +157,7 @@ sidebar:
     <li>冯倬惠（Zhuohui Feng） 【2023届学硕（202009-202307），广东海洋大学（阳江）网络空间安全学院，教师】</li>
     <li>梁轩宇（Xuanyu Liang） 【2023届学硕（202009-202307），公安局】</li>
     <li>王    超（Chao Wang） 【2023届博士（202009-202312），广东海洋大学（湛江）数学与计算机学院，教师】</li>
+    <li>黄健富（Jianfu Huang）【2024届硕士（202109-202407），德赛西威】</li>
 </ul>
 
 
