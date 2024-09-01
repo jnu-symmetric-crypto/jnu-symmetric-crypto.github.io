@@ -78,6 +78,7 @@ sidebar:
 <div class="member-img-container">
     <table>
         <tr>
+          
             <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-fqg.jpg">
@@ -87,6 +88,7 @@ sidebar:
                     <span>2022级博士</span>
                 </div>
             </td>
+          
             <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-lhm.jpg">
@@ -96,6 +98,7 @@ sidebar:
                     <span>2023级博士</span>
                 </div>
             </td>
+          
             <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-lyy.jpg">
@@ -103,6 +106,16 @@ sidebar:
                 <div>
                     <span>李盈盈（Yingying Li）</span><br/>
                     <span>2023级博士</span>
+                </div>
+            </td>
+          
+          <td>
+                <div>
+                    <img alt="member" src="/assets/images/members/mem-cyc.jpg">
+                </div>
+                <div>
+                    <span>陈胤岑（Yincen Chen）</span><br/>
+                    <span>2024级博士</span>
                 </div>
             </td>
       </tr>
@@ -114,25 +127,7 @@ sidebar:
 <div class="member-img-container">
     <table>
          <tr>
-            <td>
-                <div>
-                    <img alt="member" src="/assets/images/members/mem-cyc.jpg">
-                </div>
-                <div>
-                    <span>陈胤岑（Yincen Chen）</span><br/>
-                    <span>2021级学硕</span>
-                </div>
-            </td>
-            <td>
-                <div>
-                    <img alt="member" src="/assets/images/members/mem-ly.jpg">
-                </div>
-                <div>
-                    <span>罗  00（Ye Luo）</span><br/>
-                    <span>2021级专硕</span>
-                </div>
-            </td>
-
+           
             <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-htr.jpg">
@@ -142,6 +137,27 @@ sidebar:
                     <span>2022级学硕</span>
                 </div>
             </td>
+
+            <td>
+                <div>
+                    <img alt="member" src="/assets/images/members/mem-zcz.jpg">
+                </div>
+                <div>
+                    <span>章驰蓁（Chizhen Zhang）</span><br/>
+                    <span>2024级学硕</span>
+                </div>
+            </td>
+
+            <td>
+                <div>
+                    <img alt="member" src="/assets/images/members/mem-zzx.jpg">
+                </div>
+                <div>
+                    <span>张中信（Zhongxin Zhang）</span><br/>
+                    <span>2024级学硕</span>
+                </div>
+            </td>
+            
         </tr>
     </table>
 </div>
@@ -158,7 +174,8 @@ sidebar:
     <li>梁轩宇（Xuanyu Liang） 【2023届学硕（202009-202307），公安局】</li>
     <li>王    超（Chao Wang） 【2023届博士（202009-202312），广东海洋大学（湛江）数学与计算机学院，教师】</li>
     <li>黄健富（Jianfu Huang）【2024届硕士（202109-202407），德赛西威】</li>
-  <li>罗业（Ye Luo）【2024届硕士（202109-202407），公安局】</li>
+    <li>罗业（Ye Luo）【2024届硕士（202109-202407），公安局】</li>
+    <li>陈胤岑（Yincen Chen）【2024届硕士（202109-202407），本校升博】</li>
 </ul>
 
 
