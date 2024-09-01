@@ -78,7 +78,6 @@ sidebar:
 <div class="member-img-container">
     <table>
         <tr>
-          
             <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-fqg.jpg">
@@ -88,7 +87,6 @@ sidebar:
                     <span>2022级博士</span>
                 </div>
             </td>
-          
             <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-lhm.jpg">
@@ -98,7 +96,6 @@ sidebar:
                     <span>2023级博士</span>
                 </div>
             </td>
-          
             <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-lyy.jpg">
@@ -108,7 +105,6 @@ sidebar:
                     <span>2023级博士</span>
                 </div>
             </td>
-          
           <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-cyc.jpg">
@@ -127,7 +123,6 @@ sidebar:
 <div class="member-img-container">
     <table>
          <tr>
-           
             <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-htr.jpg">
@@ -137,7 +132,6 @@ sidebar:
                     <span>2022级学硕</span>
                 </div>
             </td>
-
             <td>
                 <div>
                     <img alt="member" src="/assets/images/members/men-zcz.jpg">
@@ -147,7 +141,6 @@ sidebar:
                     <span>2024级学硕</span>
                 </div>
             </td>
-
             <td>
                 <div>
                     <img alt="member" src="/assets/images/members/men-zzx.jpg">
@@ -157,7 +150,6 @@ sidebar:
                     <span>2024级学硕</span>
                 </div>
             </td>
-            
         </tr>
     </table>
 </div>
