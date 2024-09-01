@@ -14,6 +14,7 @@ sidebar:
 
 # 学生论文
 ## 2024
+- Qinggan Fu, Yin Lv, Zhiquan Liu, Yingying Li, **Ling Song** Jian Weng: "Preimage Attacks on Xoodyak and Gaston Based on Algebraic Strategies"已被IEEE Internet of Things Journal期刊录用。
 - Yincen Chen, Yi Guo, Xuanyu Liang, **Ling Song**, Qianqian Yang: "Revisiting the Shuffle of Generalized Feistel Structure"已被Cybersecurity期刊录用。
 
 ## 2023
@@ -30,6 +31,8 @@ sidebar:
 # 教师论文
 
 ## 2024
+- Ling Song, Huimin Liu, Qianqian Yang, Yincen Chen, Lei Hu, Jian Weng: "Generic Differential Key Recovery Attacks and Beyond" 被ASIACRYPT 2024会议接收
+- Lv Y, Shi D, Hu L, et al. Utilizing FWT in linear cryptanalysis of block ciphers with various structures[J]. Designs, Codes and Cryptography, 2024: 1-30.
 - Qianqian Yang, **Ling Song**, Nana Zhang, Danping Shi, Libo Wang, Jiahao Zhao, Lei Hu, Jian Weng: Optimizing Rectangle and Boomerang Attacks: A Unified and Generic Framework for Key Recovery. *J. Cryptol.* 37(2): 19 (2024) 密码学唯一旗舰期刊
 - **Ling Song**, Qianqian Yang, Yincen Chen, Lei Hu, Jian Weng: Probabilistic Extensions: A One-Step Framework for Finding Rectangle Attacks and Beyond. *EUROCRYPT* (1) 2024: 339-367 （三大顶会之一）
 - **宋凌**,黄健富,王超: 密码算法安全性分析方法、系统、设备及存储介质（专利申请号：ZL202311341424.X）
