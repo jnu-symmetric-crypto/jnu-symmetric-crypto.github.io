@@ -140,7 +140,7 @@ sidebar:
 
             <td>
                 <div>
-                    <img alt="member" src="/assets/images/members/mem-zcz.jpg">
+                    <img alt="member" src="/assets/images/members/men-zcz.jpg">
                 </div>
                 <div>
                     <span>章驰蓁（Chizhen Zhang）</span><br/>
