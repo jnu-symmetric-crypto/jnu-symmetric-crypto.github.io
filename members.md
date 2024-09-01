@@ -128,7 +128,7 @@ sidebar:
                     <img alt="member" src="/assets/images/members/mem-ly.jpg">
                 </div>
                 <div>
-                    <span>罗  业（Ye Luo）</span><br/>
+                    <span>罗  00（Ye Luo）</span><br/>
                     <span>2021级专硕</span>
                 </div>
             </td>
