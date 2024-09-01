@@ -24,7 +24,7 @@ sidebar:
 ---
 
 # 新闻
-- \[2024-08\]我们的论文“Generic Differential Key Recovery Attacks and Beyond”被ASIACRYPT 2024会议接收。
+- \[2024-08\]我们的论文“Generic Differential Key Recovery Attacks and Beyond”被ASIACRYPT 2024会议<span style="color:red"><strong>（三大顶会之一）</strong></span>接收。
 - \[2024-07\]我们的论文“Utilizing FWT in linear cryptanalysis of block ciphers with various structures”被DCC期刊录用。
 - \[2024-06\]我们的论文“Preimage Attacks on Xoodyak and Gaston Based on Algebraic Strategies”被IOT期刊录用。
 - \[2024-04\]我们的论文“Improving Differential-Neural Cryptanalysis for Large-State SPECK”被ICICS 2024会议接收。
