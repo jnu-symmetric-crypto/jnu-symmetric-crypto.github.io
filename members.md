@@ -143,7 +143,7 @@ sidebar:
             </td>
             <td>
                 <div>
-                    <img alt="member" src="">
+                    <img alt="member" src="/assets/images/members/men-zzx.jpg">
                 </div>
                 <div>
                     <span>张中信（Zhongxin Zhang）</span><br/>
