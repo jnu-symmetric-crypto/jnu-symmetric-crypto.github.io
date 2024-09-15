@@ -138,7 +138,7 @@ sidebar:
                 </div>
                 <div>
                     <span>章驰蓁（Chizhen Zhang）</span><br/>
-                    <span>2024级学硕</span>
+                    <span>2024级专硕</span>
                 </div>
             </td>
             <td>
