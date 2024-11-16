@@ -96,8 +96,7 @@ sidebar:
                     <span>2023级博士</span>
                 </div>
             </td>
-          /*
-            <td>
+            <!-- <td> 
                 <div>
                     <img alt="member" src="/assets/images/members/mem-lyy.jpg">
                 </div>
@@ -106,8 +105,7 @@ sidebar:
                     <span>2023级博士</span>
                 </div>
             </td>
-          */
-          <td>
+          <td> -->
                 <div>
                     <img alt="member" src="/assets/images/members/mem-cyc.jpg">
                 </div>
