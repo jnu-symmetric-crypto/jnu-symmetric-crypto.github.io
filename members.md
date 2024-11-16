@@ -96,15 +96,17 @@ sidebar:
                     <span>2023级博士</span>
                 </div>
             </td>
-#            <td>
-#                <div>
-#                    <img alt="member" src="/assets/images/members/mem-lyy.jpg">
-#                </div>
-#                <div>
-#                    <span>李盈盈（Yingying Li）</span><br/>
-#                    <span>2023级博士</span>
-#                </div>
-#            </td>
+          /*
+            <td>
+                <div>
+                    <img alt="member" src="/assets/images/members/mem-lyy.jpg">
+                </div>
+                <div>
+                    <span>李盈盈（Yingying Li）</span><br/>
+                    <span>2023级博士</span>
+                </div>
+            </td>
+          */
           <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-cyc.jpg">
