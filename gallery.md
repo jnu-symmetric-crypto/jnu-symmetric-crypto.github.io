@@ -47,9 +47,9 @@ gallery_activity:
   - url: "/assets/images/climbing.jpg"
     image_path: "/assets/images/climbing.jpg"
     title: "爬山合照"
-  - url: "/assets/images/zhujiang.jpg"
+  <!-- - url: "/assets/images/zhujiang.jpg"
     image_path: "/assets/images/zhujiang.jpg"
-    title: "珠江夜游"
+    title: "珠江夜游" -->
   - url: "/assets/images/fse2022.jpg"
     image_path: "/assets/images/fse2022.jpg"
     title: "Fse合照"
