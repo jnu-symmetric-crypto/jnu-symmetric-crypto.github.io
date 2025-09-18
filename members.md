@@ -89,15 +89,6 @@ sidebar:
         <tr>
             <td>
                 <div>
-                    <img alt="member" src="/assets/images/members/mem-fqg.jpg">
-                </div>
-                <div>
-                    <span>符清杆（Qinggan Fu）</span><br/>
-                    <span>2022级博士</span>
-                </div>
-            </td>
-            <td>
-                <div>
                     <img alt="member" src="/assets/images/members/mem-lhm.jpg">
                 </div>
                 <div>
