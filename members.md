@@ -114,6 +114,15 @@ sidebar:
                     <span>2024级博士</span>
                 </div>
             </td>
+                      <td>
+                <div>
+                    <img alt="member" src="/assets/images/members/mem-sr.jpg">
+                </div>
+                <div>
+                    <span>孙瑞（Rui Sun）</span><br/>
+                    <span>2025级博士</span>
+                </div>
+            </td>
       </tr>
     </table>
 </div>
@@ -123,15 +132,6 @@ sidebar:
 <div class="member-img-container">
     <table>
          <tr>
-            <td>
-                <div>
-                    <img alt="member" src="/assets/images/members/mem-htr.jpg">
-                </div>
-                <div>
-                    <span>黄添榕（Tianrong Huang）</span><br/>
-                    <span>2022级学硕</span>
-                </div>
-            </td>
             <td>
                 <div>
                     <img alt="member" src="/assets/images/members/men-zcz.jpg">
@@ -150,6 +150,33 @@ sidebar:
                     <span>2024级学硕</span>
                 </div>
             </td>
+             <td>
+                <div>
+                    <img alt="member" src="/assets/images/members/mem-lcx.jpg">
+                </div>
+                <div>
+                    <span>刘超翔（Chaoxiang Liu）</span><br/>
+                    <span>2025级专硕</span>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <img alt="member" src="/assets/images/members/mem-mcy.jpg">
+                </div>
+                <div>
+                    <span>马纯一（Chunyi Ma）</span><br/>
+                    <span>2025级专硕</span>
+                </div>
+            </td>
+             <td>
+                <div>
+                    <img alt="member" src="/assets/images/members/mem-mcy.jpg">
+                </div>
+                <div>
+                    <span>马纯一（Chunyi Ma）</span><br/>
+                    <span>2025级专硕</span>
+                </div>
+            </td>
         </tr>
     </table>
 </div>
@@ -157,6 +184,7 @@ sidebar:
 
 <ul>
     <li>何镜东（Jingdong He）  【202210-202304】</li>
+    <li>赵宁（Ning Zhao）  【202409-】</li>
 </ul>
 
 <h1>已毕业学生</h1>
@@ -168,6 +196,8 @@ sidebar:
     <li>黄健富（Jianfu Huang）【2024届硕士（202109-202407），德赛西威】</li>
     <li>罗业（Ye Luo）【2024届硕士（202109-202407），公安局】</li>
     <li>陈胤岑（Yincen Chen）【2024届硕士（202109-202407），本校升博】</li>
+    <li>黄添榕（Tianrong Huang）【2025届硕士（202209-202507），】</li>
+    <li>符清杆（Qinggan Fu）【2025届博士（202209-202507），广东技术师范大学，教师】</li>
 </ul>
 
 
