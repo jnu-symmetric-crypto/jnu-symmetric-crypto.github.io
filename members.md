@@ -69,6 +69,15 @@ sidebar:
                     <span>华南师范大学老师</span>
                 </div>
             </td>
+            <td>
+                <div>
+                    <img alt="member" src="/assets/images/members/mem-fqg.jpg">
+                </div>
+                <div>
+                    <span>符清杆（Qinggan Fu）</span><br/>
+                    <span>广东技术师范大学老师</span>
+                </div>
+            </td>
         </tr>
     </table>
 </div>
