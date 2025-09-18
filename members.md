@@ -55,7 +55,7 @@ sidebar:
                     <img alt="member" src="/assets/images/members/mem-sl.jpg">
                 </div>
                 <div>
-                    <span><b>宋凌（Ling Song)</b></span><br/>
+                    <span><b>宋凌(Ling Song)</b></span><br/>
                     <span>暨南大学网络空间安全学院教授</span><br/>
                       <span><a href="https://cybsec.jnu.edu.cn/2023/1120/c39591a781833/page.htm">[学院教师主页]</a>  <a href="https://sites.google.com/view/ling-song/home">[个人主页]</a></span>
                 </div>
@@ -150,7 +150,7 @@ sidebar:
                     <span>2024级学硕</span>
                 </div>
             </td>
-             <td>
+                        <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-lcx.jpg">
                 </div>
@@ -159,7 +159,7 @@ sidebar:
                     <span>2025级专硕</span>
                 </div>
             </td>
-            <td>
+                        <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-mcy.jpg">
                 </div>
@@ -168,13 +168,13 @@ sidebar:
                     <span>2025级专硕</span>
                 </div>
             </td>
-             <td>
+            <td>
                 <div>
-                    <img alt="member" src="/assets/images/members/mem-mcy.jpg">
+                    <img alt="member" src="/assets/images/members/mem-htr.jpg">
                 </div>
                 <div>
-                    <span>马纯一（Chunyi Ma）</span><br/>
-                    <span>2025级专硕</span>
+                    <span>黄添榕（Tianrong Huang）</span><br/>
+                    <span>2022级学硕</span>
                 </div>
             </td>
         </tr>
