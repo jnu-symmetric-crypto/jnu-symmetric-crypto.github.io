@@ -17,7 +17,7 @@ sidebar:
 ## 2025
 
 - Chen, Yincen, Qinggan Fu, Ning Zhao, Jiahao Zhao, **Ling Song**, and Qianqian Yang. "A Holistic Framework for Impossible Boomerang Attacks." 已被IACR CiC 录用。
-- Fu, Qinggan, et al. "Preimage and collision attacks on reduced Ascon using algebraic strategies." 已被Cybersecurity期刊录用。
+- Qinggan Fu,Ye Luo, Qianqian Yang, and Ling Song. "Preimage and collision attacks on reduced Ascon using algebraic strategies." 已被Cybersecurity期刊录用。
 
 ## 2024
 - Qinggan Fu, Yin Lv, Zhiquan Liu, Yingying Li, **Ling Song** Jian Weng: "Preimage Attacks on Xoodyak and Gaston Based on Algebraic Strategies"已被IEEE Internet of Things Journal期刊录用。
@@ -38,7 +38,7 @@ sidebar:
 
 ## 2025
 
-- **Ling Song**, et al. "Generalized impossible differential attacks on block ciphers: application to SKINNY and ForkSKINNY." Designs, Codes and Cryptography (2025): 1-45.
+- **Ling Song**,  Qinggan Fu, Qianqian Yang, Yin Lv, and Lei Hu. "Generalized impossible differential attacks on block ciphers: application to SKINNY and ForkSKINNY." Designs, Codes and Cryptography (2025): 1-45.
 
 ## 2024
 - Ling Song, Huimin Liu, Qianqian Yang, Yincen Chen, Lei Hu, Jian Weng: "Generic Differential Key Recovery Attacks and Beyond" 被ASIACRYPT 2024会议接收
