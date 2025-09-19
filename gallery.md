@@ -74,4 +74,4 @@ gallery_conference:
 
 {% include gallery id="gallery_activity" class="posters" caption="组内活动" %}
 
-{% include gallery id="gallery_conference" class="posters" caption="会议活动（FSE2023、ASK2023、Asiacrypt2023）" %}
+{% include gallery id="gallery_conference" class="posters" caption="会议活动（FSE2023、ASK2023、Asiacrypt2023、Eurocrypt2024等）" %}
