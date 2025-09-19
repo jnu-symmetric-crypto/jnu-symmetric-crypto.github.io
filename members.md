@@ -168,7 +168,7 @@ sidebar:
                     <span>2025级专硕</span>
                 </div>
             </td>
-            <td>
+            <!-- <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-htr.jpg">
                 </div>
@@ -176,7 +176,7 @@ sidebar:
                     <span>黄添榕（Tianrong Huang）</span><br/>
                     <span>2022级学硕</span>
                 </div>
-            </td>
+            </td> -->
         </tr>
     </table>
 </div>
