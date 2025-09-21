@@ -25,10 +25,10 @@ sidebar:
 
 # 新闻
 - \[2025-09\]本科生论文”基于多比特限制的 ARX 密码差分概率修正方案”发表于《密码学报》。
-- \[2025-07\]我们的论文“Improving the Differential-Linear Attack with Applications to GIFT-COFB, GIFT-64 and HyENA”被ISC 2025录用。
-- \[2025-06\]我们的论文“A Holistic Framework for Impossible Boomerang Attacks”被IACR CiC录用。
-- \[2025-05\]我们的论文“Preimage and collision attacks on reduced Ascon using algebraic strategies”发表于Cybersecurity。
-- \[2025-02\]我们的论文“Generalized impossible differential attacks on block ciphers: application to SKINNY and ForkSKINNY”被DCC期刊录用。
+- \[2025-07\]硕士生张中信的论文“Improving the Differential-Linear Attack with Applications to GIFT-COFB, GIFT-64 and HyENA”被ISC 2025录用。
+- \[2025-06\]博士生陈胤岑的论文“A Holistic Framework for Impossible Boomerang Attacks”被IACR CiC录用。
+- \[2025-05\]博士生符清杆的论文“Preimage and collision attacks on reduced Ascon using algebraic strategies”发表于Cybersecurity。
+- \[2025-02\]博士生符清杆的论文“Generalized impossible differential attacks on block ciphers: application to SKINNY and ForkSKINNY”被DCC期刊录用。
 - \[2024-08\]我们的论文“Generic Differential Key Recovery Attacks and Beyond”被ASIACRYPT 2024会议<span style="color:red"><strong>（三大顶会之一）</strong></span>接收。
 - \[2024-07\]我们的论文“Utilizing FWT in linear cryptanalysis of block ciphers with various structures”被DCC期刊录用。
 - \[2024-06\]我们的论文“Preimage Attacks on Xoodyak and Gaston Based on Algebraic Strategies”被IOT期刊录用。
