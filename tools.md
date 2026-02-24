@@ -26,7 +26,7 @@ sidebar:
 - <a href = "http://www.gurobi.cn">Gurobi 中国</a>
 
 ## 来自密码学社区
-- <a href = "https://github.com/jnusymcrypto">存放 笔记+代码</a>
+- <a href = "https://github.com/jnusymcrypto">存放 笔记+代码 (loading...)</a>
 
 ### 使用 TikZ 画图
 
