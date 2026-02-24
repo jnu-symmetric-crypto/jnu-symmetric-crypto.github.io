@@ -22,5 +22,13 @@ sidebar:
 ## 其他工具
 - <a href = "https://github.com/msoos/cryptominisat">Cryptominisat </a>
 - <a href = "https://github.com/arminbiere/cadical">Cadical</a>
+- <a href = "https://www.minizinc.org">Minizinc</a>
+- <a href = "http://www.gurobi.cn">Gurobi 中国</a>
 
+## 来自密码学社区
+
+### 使用 TikZ 画图
+
+- <a href = "https://www.iacr.org/authors/tikz/">TikZ (IACR) </a>
+- <a href = "https://extgit.isec.tugraz.at/meichlseder/tikz">TikZ (集成了许多SYM ciphers的结构和部件可直接调用</a> 
 
