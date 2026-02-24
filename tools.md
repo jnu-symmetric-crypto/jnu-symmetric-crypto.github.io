@@ -26,9 +26,9 @@ sidebar:
 - <a href = "http://www.gurobi.cn">Gurobi 中国</a>
 
 ## 来自密码学社区
+- <a href = "https://github.com/jnusymcrypto">存放 笔记+代码</a>
 
 ### 使用 TikZ 画图
 
 - <a href = "https://www.iacr.org/authors/tikz/">TikZ (IACR) </a>
-- <a href = "https://extgit.isec.tugraz.at/meichlseder/tikz">TikZ (集成了许多SYM ciphers的结构和部件可直接调用</a> 
-- <a href = "https://github.com/jnusymcrypto">存放 笔记+代码</a>
+- <a href = "https://extgit.isec.tugraz.at/meichlseder/tikz">TikZ (集成了许多SYM ciphers的结构和部件可直接调用</a>
