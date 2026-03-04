@@ -16,7 +16,7 @@ sidebar:
 
 ## 2025
 
-- Chen, Yincen, Qinggan Fu, Ning Zhao, Jiahao Zhao, **Ling Song**, and Qianqian Yang. "A Holistic Framework for Impossible Boomerang Attacks." 已被IACR CiC 录用。
+- Yincen Chen, Qinggan Fu, Ning Zhao, Jiahao Zhao, **Ling Song**, and Qianqian Yang. "A Holistic Framework for Impossible Boomerang Attacks." 已被IACR CiC 录用。
 - Qinggan Fu,Ye Luo, Qianqian Yang, and **Ling Song**. "Preimage and collision attacks on reduced Ascon using algebraic strategies." 已被Cybersecurity期刊录用。
 
 ## 2024
