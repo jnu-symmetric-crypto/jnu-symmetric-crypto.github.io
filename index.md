@@ -11,7 +11,11 @@ sidebar:
     nav: "research"
 ---
 
-<span style="color:red"><strong>本小组每年招收1名博士生与两名硕士生，欢迎在对称密码领域感兴趣的同学加入我们团队！</strong></span>  
+<div style="color:red; font-weight:bold; font-size: 0.8em; margin-bottom: 15px;">
+  本小组每年招收 1 名博士生与 2 名硕士生，欢迎对对称密码感兴趣的同学加入！<br>
+  （注：需安全或密码方向的老师的推荐意见。提供该老师的名字和邮箱/电话，我自行联系。）<br>
+  招收对称密码方向博后 1 名。
+</div>
 
 欢迎来到 **暨南大学对称密码小组** 的主页
 
@@ -24,7 +28,7 @@ sidebar:
 ---
 
 # 新闻
-- \[2025-09\]本科生论文”基于多比特限制的 ARX 密码差分概率修正方案”发表于《密码学报》。
+- \[2025-09\]本科生何镜东的论文”基于多比特限制的 ARX 密码差分概率修正方案”发表于《密码学报》。
 - \[2025-07\]硕士生张中信的论文“Improving the Differential-Linear Attack with Applications to GIFT-COFB, GIFT-64 and HyENA”被ISC 2025录用。
 - \[2025-06\]博士生陈胤岑的论文“A Holistic Framework for Impossible Boomerang Attacks”被IACR CiC录用。
 - \[2025-05\]博士生符清杆的论文“Preimage and collision attacks on reduced Ascon using algebraic strategies”发表于Cybersecurity。
@@ -53,9 +57,9 @@ sidebar:
 
 ---
 
-# 参会记录
+# 国际交流与参会
 
- 
+- [2025-10] 张中信参加ISC2025，韩国首尔，2025年10月20日-22日
 - [2025-06] 大家参加2025年对称密码研讨会，中国长沙，2025年6月6日至8日
 - [2025-03] 宋凌参加FSE 2025，意大利罗马，2025年3月17日至21日
 - [2024-12] 刘慧敏参加ASIACRYPT 2024，印度加尔各答，2024年12月9日至13日  
@@ -82,7 +86,7 @@ sidebar:
 --- 
 
 # 最近更新日期
-> 2025年9月19日
+> 2026年3月5日
 
 网站建设：黄健富、罗业、陈胤岑、章驰蓁。
 

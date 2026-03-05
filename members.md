@@ -28,11 +28,15 @@ sidebar:
     text-align: center;
     width: 240px;
   }
-  .member-img-container img {
+.member-img-container img {
       width: 120px; 
       height: 120px; 
       border-radius: 50%;
       overflow: hidden;
+      object-fit: cover; /* 关键：自动裁剪并填充，防止图片拉伸变形 */
+      object-position: center; /* 确保头像居中显示 */
+      border: 2px solid #eee; /* 可选：加一个淡淡的边框，会让图片更有质感 */
+
   }
 
     /* 在较小的屏幕尺寸下调整表格样式 */
@@ -60,7 +64,7 @@ sidebar:
                       <span><a href="https://cybsec.jnu.edu.cn/2023/1120/c39591a781833/page.htm">[学院教师主页]</a>  <a href="https://sites.google.com/view/ling-song/home">[个人主页]</a></span>
                 </div>
             </td>
-            <td>
+            <!-- <td>
                 <div>
                     <img alt="member" src="/assets/images/members/mem-lvy2.jpg">
                 </div>
@@ -77,7 +81,7 @@ sidebar:
                     <span>符清杆（Qinggan Fu）</span><br/>
                     <span>广东技术师范大学老师</span>
                 </div>
-            </td>
+            </td> -->
         </tr>
     </table>
 </div>
@@ -168,25 +172,27 @@ sidebar:
                     <span>2025级专硕</span>
                 </div>
             </td>
-            <!-- <td>
+            <td>
                 <div>
-                    <img alt="member" src="/assets/images/members/mem-htr.jpg">
+                    <img alt="member" src="/assets/images/members/mem-hyf.jpg">
                 </div>
                 <div>
-                    <span>黄添榕（Tianrong Huang）</span><br/>
-                    <span>2022级学硕</span>
+                    <span>黄羽帆（Yufan Huang）</span><br/>
+                    <span>2025级学硕</span>
                 </div>
-            </td> -->
+            </td>
         </tr>
     </table>
 </div>
+
 <h1>本科生</h1>
 
 <ul>
-    <li>何镜东（Jingdong He）  【202210-202304】</li>
-    <li>赵宁（Ning Zhao）  【202409-】</li>
+    <li>
+        何镜东（Jingdong He） 【202210-202304】
+    </li>
+    <li>赵宁（Ning Zhao） 【202409-】</li>
 </ul>
-
 <h1>已毕业学生</h1>
 
 <ul>

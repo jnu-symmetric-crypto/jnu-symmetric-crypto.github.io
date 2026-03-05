@@ -33,15 +33,16 @@ gallery_all:
   - url: "/assets/images/group/2023graduation-3.jpg"
     image_path: "/assets/images/group/2023graduation-3.jpg"
     title: "2023graduation-3"
-#  - url: "/assets/images/group/2023graduation-4.jpg"
-#    image_path: "/assets/images/group/2023graduation-4.jpg"
-#    title: "2023graduation-4"
+
   - url: "/assets/images/group/2024graduation-1.jpg"
     image_path: "/assets/images/group/2024graduation-1.jpg"
     title: "2024graduation-1"
   - url: "/assets/images/group/2024graduation-2.jpg"
     image_path: "/assets/images/group/2024graduation-2.jpg"
     title: "2024graduation-2"
+  - url: "/assets/images/group/2025graduation.jpg"
+    image_path: "/assets/images/group/2025graduation.jpg"
+    title: "2025graduation"
 
 gallery_activity:
   - url: "/assets/images/climbing.jpg"
